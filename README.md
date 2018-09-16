@@ -94,7 +94,6 @@
 - [Muyunyun - 从 JavaScript 到 TypeScript](http://muyunyun.cn/posts/66a54fc2/)
 - [Gukson - Typescript基础入门](https://www.jianshu.com/p/103933b7c2b4)
 - [oWSQo - TypeScript 入门](https://www.jianshu.com/p/c4e639296b98)
-
 - [Semlinker - TypeScript 简介及编码规范](https://semlinker.com/ts-intro-and-guide/)
 
 #### 进阶
@@ -289,7 +288,6 @@
 #### compiler
 
 - [TypeStrong - ts-node](https://github.com/TypeStrong/ts-node)
-
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
@@ -353,4 +351,4 @@
 2. 总是在列表项的末尾添加新的资源项，新增的规则请您保持与当前目录资源项格式一致。
 3. 如果您觉得某些项目归属到错误的目录下或认为需要添加新的目录，请您自由编辑。
 
-**[⬆ 返回顶部](##目录)**
+**[⬆ 返回顶部](#目录)**
