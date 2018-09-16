@@ -43,6 +43,7 @@
             - [grunt](#grunt)
             - [compiler](#compiler)
             - [linter](#linter)
+            - [ioc](#ioc)
         - [文档生成](#文档生成)
         - [数据结构](#数据结构)
         - [数据库](#数据库)
@@ -68,20 +69,20 @@
 - [Vilicvane - TypeScript 2.3 新特性一览](https://zhuanlan.zhihu.com/p/27349475)
 - [Microsoft - TypeScript 2.4 新特性一览](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript)
 - [Vilicvane - TypeScript 2.5~2.6 新特性一览](https://zhuanlan.zhihu.com/p/30760290)
-- [Linux中国 - 一篇缺失的 TypeScript 介绍](https://zhuanlan.zhihu.com/p/28494162)
 - [黄子毅 - 精读<<TypeScript2.0 - 2.9>>](https://zhuanlan.zhihu.com/p/37374083)
+- [Linux中国 - 一篇缺失的 TypeScript 介绍](https://zhuanlan.zhihu.com/p/28494162)
 - [单纯的土豆 - ES5, ES2015 和 TypeScript 的区别](http://www.jianshu.com/p/3c8c7713fa0e)
-- [贺贺v5 - Angular2、Ionic、TypeScript、es6的关系？](http://www.jianshu.com/p/27c026734b8d)
 - [三七二十 - TypeScript 的好处都有啥？和 JavaScript 的区别在哪？](https://zhuanlan.zhihu.com/p/38526585)
 - [Grain 先森 - 前端-TypeScript VS JavaScript 深度对比](https://www.jianshu.com/p/0dfbcd4a0757)
+- [贺贺v5 - Angular2、Ionic、TypeScript、es6的关系？](http://www.jianshu.com/p/27c026734b8d)
 - [极客学院 - 使用 TypeScript 提高开发能力](http://www.jianshu.com/p/066a6017db1b)
 - [Hevin - 为什么 Reddit 选择了 TypeScript？](https://zhuanlan.zhihu.com/p/27695708)
 - [JiaXinYi - Angular: 我们为什么选择 TypeScript](https://segmentfault.com/a/1190000010892897)
+- [Djcordhose - 对比 Flow 和 TypeScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
 - [Neal1991 - 采用 Flow 以及 TypeScript](https://github.com/neal1991/articles-translator/blob/master/%E9%87%87%E7%94%A8Flow%E4%BB%A5%E5%8F%8ATypeScript.md)
 - [柳佳 - Flow vs. Typescript](https://zhuanlan.zhihu.com/p/27593029)
 - [SDK.cn - Slack 的 TypeScript 之路](https://sdk.cn/news/6789)
 - [RDDcoding - 熟悉全栈TypeScript](https://segmentfault.com/a/1190000014414303)
-- [Djcordhose - 对比 Flow 和 TypeScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
 - [Lxxyx - TypeScript - 不止稳，而且快](http://www.lxxyx.win/2017/07/23/2017/ts-accerlate/)
 
 ### 中文资源
@@ -158,13 +159,16 @@
 
 - [Microsoft - TypeScript-Handbook](https://github.com/Microsoft/TypeScript-Handbook)
 - [Microsoft - TypeScript Team Blog](http://blogs.msdn.com/b/typescript/)
-- [TypeStrong - learn-typescript](https://github.com/TypeStrong/learn-typescript)
+- [TypeStrong - Learn TypeScript](https://github.com/TypeStrong/learn-typescript)
+- [Marius Schulz - TypeScript Evolution](https://blog.mariusschulz.com/series/typescript-evolution)
 - [Indrek Lasn - TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 - [Indrek Lasn - TypeScript — JavaScript with superpowers II](https://hackernoon.com/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842)
 - [Martin Hochel - Interface vs Type alias in TypeScript 2.7](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 - [Valentin PARSY - Typescript : class vs interface](https://medium.com/front-end-hacking/typescript-class-vs-interface-99c0ae1c2136)
+- [Victor Savkin - Functional TypeScript](https://vsavkin.com/functional-typescript-316f0e003dc6)
 - [Netanel Basal - Using TypeScript Dynamic Imports in Angular](https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd)
 - [Elena Sufieva - Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
+- [Wolksoftware - Decorators Reflection JavaScript TypeScript](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 - [Luis Aviles - Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 - [Jonny Fox - WebSocket + Node.js + Express — Step by step tutorial using Typescript](https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4)
 - [Trey Huffine - TypeScript and React using create-react-app: A step-by-step guide to setting up your first app](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
@@ -296,12 +300,18 @@
 
 - [palantir - tslint](https://github.com/palantir/tslint)
 
+### Ioc
+
+* [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
+* [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
+
 ### 文档生成
 
 - [TypeStrong - typedoc](https://github.com/TypeStrong/typedoc)
 
 ### 数据结构
 
+- [dcodeIO - protobuf.js](https://github.com/dcodeIO/protobuf.js)
 - [basarat - typescript-collections](https://github.com/basarat/typescript-collections)
 
 ### 数据库
