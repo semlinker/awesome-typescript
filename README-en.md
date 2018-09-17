@@ -1,68 +1,67 @@
 # ![ts-logo](media/ts-favicon-96x96.png) Awesome TypeScript
 
-![awesome](media/awesome.svg)  ![zh-cn](media/zh-cn.svg)  ![license](media/creative-commons.svg)
+![awesome](media/awesome.svg)  ![license](media/creative-commons.svg)
 
-[TypeScript](https://www.typescriptlang.org/) 是一种由微软开发的自由和开源的编程语言。它是 JavaScript 的一个超集，而且本质上向这个语言添加了可选的静态类型和基于类的面向对象编程。
+[TypeScript](https://www.typescriptlang.org/) is a free and open source programming language developed by Microsoft. It is a superset of JavaScript and essentially adds optional static typing and class-based object-oriented programming to the language.
 
-> Awesome TypeScript 库灵感来源于 [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript)，感谢 [dzharii](https://github.com/dzharii)。
+> Awesome TypeScript inspired by  [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript)，Thanks [dzharii](https://github.com/dzharii)。
 
-本文的资源主要来源于以下网站：
+The resources of this article are mainly from the following websites：
 
 [![sf-favicon.ico](media/sf-favicon.ico)](https://segmentfault.com/) [![juejin-favicon](media/juejin-favicon.ico)](https://juejin.im/timeline) [![zhihu-favicon](media/zhihu-favicon.ico)](https://www.zhihu.com/explore) [![jianshu-favicon](media/jianshu-favicon.ico)](https://www.jianshu.com/) [![toutiao-favicon](media/toutiao-favicon.ico)](https://toutiao.io/) [![medium-favicon](media/medium-favicon.ico)](https://medium.com/)[![github-favicon](media/github-favicon.ico)](https://github.com/)
 
 [Chinese](https://github.com/semlinker/awesome-typescript/blob/master/README.md) | [English](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md)
 
-## 目录
-
+## Contents
 <!-- TOC -->
 
 - [Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)
-    - [目录](#目录)
-    - [TypeScript 教程](#typescript-教程)
-        - [选型/新特性](#选型新特性)
-        - [中文资源](#中文资源)
-            - [入门](#入门)
-            - [进阶](#进阶)
-            - [实战](#实战)
-        - [英文资源](#英文资源)
-            - [教程](#教程)
-            - [示例](#示例)
-            - [风格指南](#风格指南)
+    - [Contents](#contents)
+    - [TypeScript Tutorials](#typescript-tutorials)
+        - [Features](#features)
+        - [Chinese](#chinese)
+            - [Beginner](#beginner)
+            - [Advanced](#advanced)
+            - [Practical](#practical)
+        - [English](#english)
+            - [Tutorials](#tutorials)
+            - [Samples](#samples)
+            - [Guide](#guide)
             - [awesome](#awesome)
-    - [TypeScript Starter/Boilerplate](#typescript-starterboilerplate)
-    - [TypeScript 设计模式](#typescript-设计模式)
-    - [TypeScript 视频](#typescript-视频)
-        - [中文视频](#中文视频)
-        - [英文视频](#英文视频)
-    - [TypeScript 问答](#typescript-问答)
-    - [TypeScript 书籍](#typescript-书籍)
-        - [中文书籍](#中文书籍)
-        - [英文书籍](#英文书籍)
-    - [TypeScript 工具/库](#typescript-工具库)
-        - [构建工具](#构建工具)
+    - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)
+    - [TypeScript Design patterns](#typescript-design-patterns)
+    - [TypeScript Videos](#typescript-videos)
+        - [Chinese](#chinese-1)
+        - [English](#english-1)
+    - [TypeScript QA](#typescript-qa)
+    - [TypeScript Books](#typescript-books)
+        - [Chinese](#chinese-2)
+        - [English](#english-2)
+    - [TypeScript Tools/Libraries](#typescript-toolslibraries)
+        - [Build](#build)
             - [webpack](#webpack)
             - [gulp](#gulp)
             - [grunt](#grunt)
             - [compiler](#compiler)
             - [linter](#linter)
-            - [ioc](#ioc)
-        - [文档生成](#文档生成)
-        - [数据结构](#数据结构)
-        - [数据库](#数据库)
+        - [Ioc](#ioc)
+        - [Doc](#doc)
+        - [Data Structure](#data-structure)
+        - [Database](#database)
     - [TypeScript IDE](#typescript-ide)
         - [Offline](#offline)
-            - [IDE/插件](#ide插件)
+            - [IDE/Plugins](#ideplugins)
         - [Online](#online)
             - [Playground](#playground)
-            - [Chrome 扩展](#chrome-扩展)
-    - [贡献](#贡献)
-        - [指南](#指南)
+            - [Chrome Extension](#chrome-extension)
+    - [Contributing](#contributing)
+        - [Guide](#guide-1)
 
 <!-- /TOC -->
 
-## TypeScript 教程
+## TypeScript Tutorials
 
-### 选型/新特性
+### Features
 
 - [蚂蚁金服数据体验技术团队 - TypeScript体系调研报告](https://juejin.im/post/59c46bc86fb9a00a4636f939)
 - [Vilicvane - TypeScript 2.0 新特性一览](https://zhuanlan.zhihu.com/p/21629069)
@@ -87,9 +86,9 @@
 - [RDDcoding - 熟悉全栈TypeScript](https://segmentfault.com/a/1190000014414303)
 - [Lxxyx - TypeScript - 不止稳，而且快](http://www.lxxyx.win/2017/07/23/2017/ts-accerlate/)
 
-### 中文资源
+### Chinese
 
-#### 入门
+#### Beginner
 
 - [Xcatliu - TypeScript 入门教程](https://ts.xcatliu.com/)
 - [Taobaofed - 认识 TypeScript](http://taobaofed.org/blog/2017/03/09/head-first-typescript/)
@@ -99,7 +98,7 @@
 - [oWSQo - TypeScript 入门](https://www.jianshu.com/p/c4e639296b98)
 - [Semlinker - TypeScript 简介及编码规范](https://semlinker.com/ts-intro-and-guide/)
 
-#### 进阶
+#### Advanced
 
 - [Zhongsp - TypeScript Handbook (中文版)](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 - [Bjcl - TypeScript 教程](https://www.w3cschool.cn/typescript/)
@@ -110,7 +109,7 @@
 - [腾讯NEXT学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
 
-#### 实战
+#### Practical
 
 **Angular**
 
@@ -156,9 +155,9 @@
 - [贾顺名 - TypeScript在node项目中的实践](https://segmentfault.com/a/1190000015719697)
 - [贾顺名 - 使用 TS + Sequelize 实现更简洁的 CRUD](https://mp.weixin.qq.com/s/agjjsO-47Qdd517wthadFg)
 
-### 英文资源
+### English
 
-#### 教程
+#### Tutorials
 
 - [Microsoft - TypeScript-Handbook](https://github.com/Microsoft/TypeScript-Handbook)
 - [Microsoft - TypeScript Team Blog](http://blogs.msdn.com/b/typescript/)
@@ -177,7 +176,7 @@
 - [Trey Huffine - TypeScript and React using create-react-app: A step-by-step guide to setting up your first app](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 - [Rinto Jose - React Native with TypeScript](https://medium.com/@rintoj/react-native-with-typescript-40355a90a5d7)
 
-#### 示例
+#### Samples
 
 - [Microsoft - TypeScriptSamples](https://github.com/Microsoft/TypeScriptSamples)
 - [DanWahlin - Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)
@@ -188,7 +187,7 @@
 - [luixaviles - socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat)
 - [dwyl - hapi-typescript-example](https://github.com/dwyl/hapi-typescript-example)
 
-#### 风格指南
+#### Guide
 
 - [piotrwitek - react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 
@@ -197,7 +196,7 @@
 - [dzharii - awesome-typescript](https://github.com/dzharii/awesome-typescript)
 - [brookshi - awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects)
 
-## TypeScript Starter/Boilerplate
+## TypeScript Starters/Boilerplates
 
 - [Microsoft - TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 - [Microsoft - TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter)
@@ -212,7 +211,7 @@
 - [blove - typescript-express-starter](https://github.com/blove/typescript-express-starter)
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 
-## TypeScript 设计模式
+## TypeScript Design patterns
 
 - [蚂蚁金服数据体验技术团队 - Typescript玩转设计模式 之 创建型模式](https://juejin.im/post/59fa88ac5188255a6a0d5f31)
 - [蚂蚁金服数据体验技术团队 - Typescript玩转设计模式 之 结构型模式（上）](https://juejin.im/post/5a2d16325188252da0535d73)
@@ -222,15 +221,15 @@
 - [杜帅 - 浅析Typescript设计模式](https://zhuanlan.zhihu.com/p/43283016)
 - [torokmark - design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript)
 
-## TypeScript 视频
+## TypeScript Videos
 
-### 中文视频
+### Chinese
 
 - [慕课网 - TypeScript 入门](http://www.imooc.com/learn/763)
 - [智能社 - TypeScript - 2小时带你体验微软新坑](https://chuanke.baidu.com/v1021662-207581-1268007.html)
 - [cnode - 2018年最新Typescript视频教程](https://cnodejs.org/topic/5b4419df13ca2fe569fb924a)
 
-### 英文视频
+### English
 
 - [egghead.io - Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
 - [egghead.io - Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
@@ -241,7 +240,7 @@
 - [udemy - TypeScript: Learn the Basics in a Refreshing Way](https://www.udemy.com/typescript-hero/)
 - [youtube - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
 
-## TypeScript 问答
+## TypeScript QA
 
 - [Segmentfault - 为什么Angular2和Ionic2都用TypeScript开发，TypeScript有什么优势吗？](https://segmentfault.com/q/1010000004152645)
 - [Zhihu - TypeScript 和 JavaScript 的区别？](https://www.zhihu.com/question/25421196)
@@ -251,14 +250,14 @@
 - [Zhihu - 为什么 TypeScript 成功了，更先进的 ActionScript 却失败了？](https://www.zhihu.com/question/49170215)
 - [Zhihu - Typescript有什么冷门但是很好用的特性？](https://www.zhihu.com/question/276172039/answer/385433602)
 
-## TypeScript 书籍
+## TypeScript Books
 
-### 中文书籍
+### Chinese
 
 - [Learning TypeScript (中文版)](https://item.jd.com/12001593.html)
 - [迈向 Angular 2: 基于 TypeScript 的高性能 SPA 框架](https://item.jd.com/11948831.html)
 
-### 英文书籍
+### English
 
 - [TypeScript Essentials](https://www.amazon.cn/dp/B00OUJL6P0)
 - [Mastering TypeScript](https://www.amazon.cn/dp/B00WMLHQFC)
@@ -275,9 +274,9 @@
 - [TypeScript High Performance](https://www.amazon.cn/dp/B071VVFD4D/)
 - [TypeScript Microservices](https://www.amazon.cn/dp/B078N3XCVG/)
 
-## TypeScript 工具/库
+## TypeScript Tools/Libraries
 
-### 构建工具
+### Build
 
 #### webpack
 
@@ -308,16 +307,16 @@
 * [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
 * [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
 
-### 文档生成
+### Doc
 
 - [TypeStrong - typedoc](https://github.com/TypeStrong/typedoc)
 
-### 数据结构
+### Data Structure
 
 - [dcodeIO - protobuf.js](https://github.com/dcodeIO/protobuf.js)
 - [basarat - typescript-collections](https://github.com/basarat/typescript-collections)
 
-### 数据库
+### Database
 
 - [Typeorm - typeorm](https://github.com/typeorm/typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
@@ -326,7 +325,7 @@
 
 ### Offline
 
-#### IDE/插件
+#### IDE/Plugins
 
 - [Visual Studio Community](https://visualstudio.microsoft.com/zh-hans/vs/community/)
 - [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
@@ -350,18 +349,18 @@
 - [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/)
 - [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/)
 
-#### Chrome 扩展
+#### Chrome Extension
 
 - [OctoLinker](https://github.com/OctoLinker/browser-extension)
 
-## 贡献
+## Contributing
 
-欢迎您的贡献 🌺
+Welcome your contribution 🌺
 
-### 指南
+### Guide
 
-1. 请您确保在正确的目录下补充资源项。
-2. 总是在列表项的末尾添加新的资源项，新增的规则请您保持与当前目录资源项格式一致。
-3. 如果您觉得某些项目归属到错误的目录下或认为需要添加新的目录，请您自由编辑。
+1. Please make sure to supplement the resource items in the correct directory.
+2. Always add new resource items at the end of the list. The new rules should be consistent with the current directory resource item format.
+3. If you feel that some items belong to the wrong directory or think you need to add a new directory, please feel free to edit.
 
-**[⬆ 返回顶部](#目录)**
+**[⬆ Go To Top](#contents)**
