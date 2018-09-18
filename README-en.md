@@ -354,7 +354,7 @@ The resources of this article are mainly from the following websites：
 - [Codepen](http://codepen.io/)
 - [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/)
 - [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/)
-- [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/)
+- [TypeScript Play](https://agentcooper.github.io/typescript-play/)
 
 #### Chrome Extension
 
