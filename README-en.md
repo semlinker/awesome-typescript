@@ -24,7 +24,7 @@ The resources of this article are mainly from the following websites：
             - [Advanced](#advanced)
             - [Practical](#practical)
         - [English](#english)
-            - [Features](#features)
+            - [Features](#features-1)
             - [Tutorials](#tutorials)
             - [Samples](#samples)
             - [Guide](#guide)
