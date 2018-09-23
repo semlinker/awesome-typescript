@@ -24,6 +24,7 @@ The resources of this article are mainly from the following websites：
             - [Advanced](#advanced)
             - [Practical](#practical)
         - [English](#english)
+            - [Features](#features)
             - [Tutorials](#tutorials)
             - [Samples](#samples)
             - [Guide](#guide)
@@ -98,6 +99,7 @@ The resources of this article are mainly from the following websites：
 - [Gukson - Typescript基础入门](https://www.jianshu.com/p/103933b7c2b4)
 - [oWSQo - TypeScript 入门](https://www.jianshu.com/p/c4e639296b98)
 - [Semlinker - TypeScript 简介及编码规范](https://semlinker.com/ts-intro-and-guide/)
+- [技术胖 - TypeScript图文视频教程](https://juejin.im/post/5ba43b38f265da0aef4e0bc6)
 
 #### Advanced
 
@@ -158,12 +160,29 @@ The resources of this article are mainly from the following websites：
 
 ### English
 
+#### Features
+
+- [Marius Schulz - TypeScript 2.0: The never Type](https://blog.mariusschulz.com/2016/11/18/typescript-2-0-the-never-type )
+- [Marius Schulz - TypeScript 2.0: Tagged Union Types](https://blog.mariusschulz.com/2016/11/03/typescript-2-0-tagged-union-types)
+- [Marius Schulz - TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
+- [Marius Schulz - TypeScript 2.1: Object Rest and Spread](https://blog.mariusschulz.com/2016/12/23/typescript-2-1-object-rest-and-spread)
+- [Marius Schulz - TypeScript 2.1: Mapped Types](https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types)
+- [Marius Schulz -  TypeScript 2.1: Improved Inference for Literal Types](https://blog.mariusschulz.com/2017/01/27/typescript-2-1-improved-inference-for-literal-types)
+- [Marius Schulz -  TypeScript 2.1: keyof and Lookup Types](https://blog.mariusschulz.com/2017/01/06/typescript-2-1-keyof-and-lookup-types)
+- [Marius Schulz - TypeScript 2.2: Dotted Properties and String Index Signatures](https://blog.mariusschulz.com/2017/03/03/typescript-2-2-dotted-properties-and-string-index-signatures)
+- [Marius Schulz - TypeScript 2.3: Generic Parameter Defaults](https://blog.mariusschulz.com/2017/06/02/typescript-2-3-generic-parameter-defaults)
+- [Marius Schulz - TypeScript 2.4: String Enums](https://blog.mariusschulz.com/2017/10/27/typescript-2-4-string-enums)
+- [Marius Schulz - TypeScript 2.5: Optional catch Binding](https://blog.mariusschulz.com/2018/01/30/typescript-2-5-optional-catch-binding)
+- [Marius Schulz - TypeScript 2.6: JSX Fragment Syntax](https://blog.mariusschulz.com/2018/02/09/typescript-2-6-jsx-fragment-syntax)
+- [Marius Schulz - TypeScript 2.7: Strict Property Initialization](https://blog.mariusschulz.com/2018/05/20/typescript-2-7-strict-property-initialization)
+- [Marius Schulz - TypeScript 2.7: Numeric Separators](https://blog.mariusschulz.com/2018/02/16/typescript-2-7-numeric-separators)
+- [Marius Schulz - TypeScript 2.8: Per-File JSX Factories](https://blog.mariusschulz.com/2018/07/08/typescript-2-8-per-file-jsx-factories)
+
 #### Tutorials
 
 - [Microsoft - TypeScript-Handbook](https://github.com/Microsoft/TypeScript-Handbook)
 - [Microsoft - TypeScript Team Blog](http://blogs.msdn.com/b/typescript/)
 - [TypeStrong - Learn TypeScript](https://github.com/TypeStrong/learn-typescript)
-- [Marius Schulz - TypeScript Evolution](https://blog.mariusschulz.com/series/typescript-evolution)
 - [Indrek Lasn - TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 - [Indrek Lasn - TypeScript — JavaScript with superpowers II](https://hackernoon.com/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842)
 - [Martin Hochel - Interface vs Type alias in TypeScript 2.7](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
