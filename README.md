@@ -12,6 +12,10 @@
 
 [Chinese](https://github.com/semlinker/awesome-typescript/blob/master/README.md) | [English](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md)
 
+欢迎订阅前端修仙之路，方便阅读本人有关 Angular、RxJS、TypeScript 和 Node.js 最新文章。
+
+![fer_road_qrcode](media/fer_road_qrcode.jpg)
+
 ## 目录
 
 <!-- TOC -->
@@ -108,6 +112,7 @@
 - [Bjcl - TypeScript 教程](https://www.w3cschool.cn/typescript/)
 - [Jason - 你所不知道的 Typescript 与 Redux 类型优化](https://zhuanlan.zhihu.com/p/32112508)
 - [王亦斯 - 巧用 Typescript](https://zhuanlan.zhihu.com/p/39620591)
+- [三毛丶 - 巧用 TypeScript （一）](https://juejin.im/post/5bba114f6fb9a05cd31ed114)
 - [Square - TypeScript 3.0 元组类型的用法和一些奇技淫巧](https://zhuanlan.zhihu.com/p/38687656)
 - [Square - Typescript 类型高级技巧，和强约束 bind 的实现](https://zhuanlan.zhihu.com/p/38789971)
 - [腾讯NEXT学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
@@ -133,12 +138,14 @@
 - [距离 - Vue全家桶+TypeScript使用总结](https://segmentfault.com/a/1190000013462418)
 - [海蓝2018 - vue全家桶+Typescript开发一款习惯养成APP](https://segmentfault.com/a/1190000014884801)
 - [Treri - 使用FIS3 和 TypeScript 实现 vue-hackernews-2.0](https://juejin.im/entry/58d8d603b123db199f4639a3)
+- [🍼holyZhengs - 记录一次基于vue、typescript、pwa的项目由开发到部署](https://juejin.im/post/5ba3d205e51d450e8477af33)
 
 **React**
 
-- [基于 React + TypeScript 的网易云音乐](https://juejin.im/post/5b715796e51d4566334ca28c)
-- [iKcamp 翻译 | 开始使用 TypeScript 和 React](https://juejin.im/post/595cc34ff265da6c3d6c262b)
+- [fi3ework - 基于 React + TypeScript 的网易云音乐](https://juejin.im/post/5b715796e51d4566334ca28c)
+- [iKcamp - 翻译 | 开始使用 TypeScript 和 React](https://juejin.im/post/595cc34ff265da6c3d6c262b)
 - [贾顺名 - TypeScript在react项目中的实践](https://segmentfault.com/a/1190000016163937)
+- [花生毛豆 - TypeScript 在 React 中使用总结](https://juejin.im/post/5bab4d59f265da0aec22629b)
 - [icepy - 复杂 React 应用中的TypeScript 3.0实践](https://zhuanlan.zhihu.com/p/42141179)
 - [蚂蚁金服数据体验技术团队 - TypeScript 实践](https://juejin.im/post/5a9c004a6fb9a028b92c9e91)
 - [蚂蚁金服数据体验技术团队 - TypeScript 2.8下的终极React组件模式](https://juejin.im/post/5b07caf16fb9a07aa83f2977)
@@ -158,6 +165,7 @@
 - [奇舞团 - ThinkJS 3.0 如何实现对 TypeScript 的支持](https://75team.com/post/thinkjs-3.0-with-typescript.html)
 - [贾顺名 - TypeScript在node项目中的实践](https://segmentfault.com/a/1190000015719697)
 - [贾顺名 - 使用 TS + Sequelize 实现更简洁的 CRUD](https://mp.weixin.qq.com/s/agjjsO-47Qdd517wthadFg)
+- [YDJFE - 一次TypeScript, React, Node, MongoDB的模板式前后端分离开发实践](https://juejin.im/post/5b89e47f51882542c062651f)
 
 ### 英文资源
 
@@ -260,6 +268,7 @@
 - [udemy - Introduction to TypeScript](https://www.udemy.com/typescript/)
 - [udemy - TypeScript: Learn the Basics in a Refreshing Way](https://www.udemy.com/typescript-hero/)
 - [youtube - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
+- [scrimba - Introduction to TypeScript](https://scrimba.com/g/gintrototypescript)
 
 ## TypeScript 问答
 
