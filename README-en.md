@@ -386,12 +386,12 @@ The resources of this article are mainly from the following websites：
 
 ## Contributing
 
-Welcome your contribution 🌺
+We welcome your contributions 🌺
 
 ### Guide
 
-1. Please make sure to supplement the resource items in the correct directory.
-2. Always add new resource items at the end of the list. The new rules should be consistent with the current directory resource item format.
-3. If you feel that some items belong to the wrong directory or think you need to add a new directory, please feel free to edit.
+1. Please make sure to add your item in the correct section.
+2. Always add new items at the end of the list. The format should be consistent with the current section's items.
+3. If you feel that some items are in the wrong section or you need to add a new section, please feel free to edit.
 
 **[⬆ Go To Top](#contents)**
