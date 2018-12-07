@@ -108,10 +108,13 @@ The resources of this article are mainly from the following websites：
 - [Jason - 你所不知道的 Typescript 与 Redux 类型优化](https://zhuanlan.zhihu.com/p/32112508)
 - [王亦斯 - 巧用 Typescript](https://zhuanlan.zhihu.com/p/39620591)
 - [三毛丶 - 巧用 TypeScript （一）](https://juejin.im/post/5bba114f6fb9a05cd31ed114)
+- [三毛丶 - 巧用 TypeScript （二）](https://juejin.im/post/5bded28451882516bd2c4b39)
+- [三毛丶 - 巧用 TypeScript （三）](https://juejin.im/post/5bf15bf051882511630d3ec3)
 - [Square - TypeScript 3.0 元组类型的用法和一些奇技淫巧](https://zhuanlan.zhihu.com/p/38687656)
 - [Square - Typescript 类型高级技巧，和强约束 bind 的实现](https://zhuanlan.zhihu.com/p/38789971)
 - [腾讯NEXT学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
+- [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
 
 #### Practical
 
@@ -134,6 +137,8 @@ The resources of this article are mainly from the following websites：
 - [海蓝2018 - vue全家桶+Typescript开发一款习惯养成APP](https://segmentfault.com/a/1190000014884801)
 - [Treri - 使用FIS3 和 TypeScript 实现 vue-hackernews-2.0](https://juejin.im/entry/58d8d603b123db199f4639a3)
 - [🍼holyZhengs - 记录一次基于vue、typescript、pwa的项目由开发到部署](https://juejin.im/post/5ba3d205e51d450e8477af33)
+- [大转转FE - 原有vue项目接入typescript](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484478&idx=1&sn=a1222cc6d327fe80690b71e4398a27a2&chksm=fbb58ff7ccc206e12b5e2d57fb7cf84f8fe31dce3213e9b2c9ea00d5555873ddbb68ff2fde84&token=1712114111&lang=zh_CN&rd2werd=1#wechat_redirect)
+- [MartinYin - 使用typescript+vue 编写电影信息小项目！](https://juejin.im/post/5bc2fd06e51d450e7903c783)
 
 **React**
 
@@ -274,6 +279,8 @@ The resources of this article are mainly from the following websites：
 - [Zhihu - 关于Typescript和ES6的对比？](https://www.zhihu.com/question/59375764)
 - [Zhihu - 为什么 TypeScript 成功了，更先进的 ActionScript 却失败了？](https://www.zhihu.com/question/49170215)
 - [Zhihu - Typescript有什么冷门但是很好用的特性？](https://www.zhihu.com/question/276172039/answer/385433602)
+- [Zhihu - TypeScript中的装饰器(Decorators)的本质是什么](https://www.zhihu.com/question/68257128/answer/261502855)
+- [Zhihu - 如何学习用Typescript写Reactjs?](https://www.zhihu.com/question/38838053/answer/78371116)
 
 ## TypeScript Books
 
