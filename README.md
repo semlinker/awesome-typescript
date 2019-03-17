@@ -122,7 +122,7 @@
 - [腾讯NEXT学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
 - [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
-- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [三毛 - 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 
 #### 实战
 
