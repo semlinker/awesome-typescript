@@ -107,14 +107,17 @@ The resources of this article are mainly from the following websites：
 - [Bjcl - TypeScript 教程](https://www.w3cschool.cn/typescript/)
 - [Jason - 你所不知道的 Typescript 与 Redux 类型优化](https://zhuanlan.zhihu.com/p/32112508)
 - [王亦斯 - 巧用 Typescript](https://zhuanlan.zhihu.com/p/39620591)
-- [三毛丶 - 巧用 TypeScript （一）](https://juejin.im/post/5bba114f6fb9a05cd31ed114)
-- [三毛丶 - 巧用 TypeScript （二）](https://juejin.im/post/5bded28451882516bd2c4b39)
-- [三毛丶 - 巧用 TypeScript （三）](https://juejin.im/post/5bf15bf051882511630d3ec3)
+- [三毛 - 巧用 TypeScript （一）](https://jkchao.cn/article/5bb9c63963a5d23d5ce3091b)
+- [三毛 - 巧用 TypeScript （二）](https://jkchao.cn/article/5bde8fdf94307c57d4c8d37a)
+- [三毛 - 巧用 TypeScript （三）](https://jkchao.cn/article/5befe57994307c57d4c8d383)
+- [三毛 - 巧用 TypeScript （四）](https://jkchao.cn/article/5c162137e35fb85c4c7e1278)
+- [三毛 - 巧用 TypeScript （五）](https://jkchao.cn/article/5c8a4d99e53a054fad647c15)
 - [Square - TypeScript 3.0 元组类型的用法和一些奇技淫巧](https://zhuanlan.zhihu.com/p/38687656)
 - [Square - Typescript 类型高级技巧，和强约束 bind 的实现](https://zhuanlan.zhihu.com/p/38789971)
 - [腾讯NEXT学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
 - [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
+- [三毛 - 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 
 #### Practical
 
@@ -139,6 +142,7 @@ The resources of this article are mainly from the following websites：
 - [🍼holyZhengs - 记录一次基于vue、typescript、pwa的项目由开发到部署](https://juejin.im/post/5ba3d205e51d450e8477af33)
 - [大转转FE - 原有vue项目接入typescript](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484478&idx=1&sn=a1222cc6d327fe80690b71e4398a27a2&chksm=fbb58ff7ccc206e12b5e2d57fb7cf84f8fe31dce3213e9b2c9ea00d5555873ddbb68ff2fde84&token=1712114111&lang=zh_CN&rd2werd=1#wechat_redirect)
 - [MartinYin - 使用typescript+vue 编写电影信息小项目！](https://juejin.im/post/5bc2fd06e51d450e7903c783)
+- [三毛 - 在 Vue 中使用 TypeScript 的一些思考（实践）](https://jkchao.cn/article/5b3d3bbef9d34142a117b184)
 
 **React**
 
