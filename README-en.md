@@ -223,6 +223,8 @@ The resources of this article are mainly from the following websites：
 #### Guide
 
 - [piotrwitek - react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+- [labs42io - clean-code-typescript](https://labs42io.github.io/clean-code-typescript)
+- [sw-yx - react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
 
 #### Awesome
 

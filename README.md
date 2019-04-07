@@ -12,10 +12,6 @@
 
 [Chinese](https://github.com/semlinker/awesome-typescript/blob/master/README.md) | [English](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md)
 
-欢迎订阅前端修仙之路，方便阅读本人有关 Angular、RxJS、TypeScript 和 Node.js 最新文章。
-
-![fer_road_qrcode](media/fer_road_qrcode.jpg)
-
 ## 目录
 
 <!-- TOC -->
@@ -228,6 +224,8 @@
 #### 风格指南
 
 - [piotrwitek - react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+- [labs42io - clean-code-typescript](https://labs42io.github.io/clean-code-typescript)
+- [sw-yx - react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
 
 #### Awesome
 
