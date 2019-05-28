@@ -208,6 +208,7 @@ The resources of this article are mainly from the following websites：
 - [Jonny Fox - WebSocket + Node.js + Express — Step by step tutorial using Typescript](https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4)
 - [Trey Huffine - TypeScript and React using create-react-app: A step-by-step guide to setting up your first app](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 - [Rinto Jose - React Native with TypeScript](https://medium.com/@rintoj/react-native-with-typescript-40355a90a5d7)
+- [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
 
 #### Samples
 
