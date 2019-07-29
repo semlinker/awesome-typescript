@@ -246,6 +246,7 @@
 - [bitjson - typescript-starter](https://github.com/bitjson/typescript-starter)
 - [blove - typescript-express-starter](https://github.com/blove/typescript-express-starter)
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
+- [MiroslavPetrik - nest-mongo-api-starter](https://github.com/MiroslavPetrik/nest-mongo-api-starter)
 
 ## TypeScript 设计模式
 
