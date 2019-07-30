@@ -245,6 +245,7 @@ The resources of this article are mainly from the following websites：
 - [bitjson - typescript-starter](https://github.com/bitjson/typescript-starter)
 - [blove - typescript-express-starter](https://github.com/blove/typescript-express-starter)
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
+- [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 
 ## TypeScript Design patterns
 
