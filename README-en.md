@@ -12,7 +12,12 @@ The resources of this article are mainly from the following websites：
 
 [Chinese](https://github.com/semlinker/awesome-typescript/blob/master/README.md) | [English](https://github.com/semlinker/awesome-typescript/blob/master/README-en.md)
 
+**阅读更多关于 Angular、TypeScript、Node.js/Java 、Spring 等技术文章，欢迎访问我的个人博客或关注我的公众号 —— [全栈修仙之路](http://www.semlinker.com/) **
+
+![fer_road_qrcode](media/fer_road_qrcode.jpg)
+
 ## Contents
+
 <!-- TOC -->
 
 - [Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)
@@ -83,10 +88,12 @@ The resources of this article are mainly from the following websites：
 - [JiaXinYi - Angular: 我们为什么选择 TypeScript](https://segmentfault.com/a/1190000010892897)
 - [Djcordhose - 对比 Flow 和 TypeScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
 - [Neal1991 - 采用 Flow 以及 TypeScript](https://github.com/neal1991/articles-translator/blob/master/%E9%87%87%E7%94%A8Flow%E4%BB%A5%E5%8F%8ATypeScript.md)
-- [柳佳 - Flow vs. Typescript](https://zhuanlan.zhihu.com/p/27593029)
+- [柳佳 - Flow vs Typescript](https://zhuanlan.zhihu.com/p/27593029)
 - [SDK.cn - Slack 的 TypeScript 之路](https://sdk.cn/news/6789)
-- [RDDcoding - 熟悉全栈TypeScript](https://segmentfault.com/a/1190000014414303)
+- [RDDcoding - 熟悉全栈 TypeScript](https://segmentfault.com/a/1190000014414303)
 - [Lxxyx - TypeScript - 不止稳，而且快](http://www.lxxyx.win/2017/07/23/2017/ts-accerlate/)
+- [Zhangwang - TypeScript - 一种思维方式](https://zhuanlan.zhihu.com/p/63346965)
+- [Lienviws - TypeScript 安利指南](https://juejin.im/post/5d8efeace51d45782b0c1bd6)
 
 ### Chinese
 
@@ -118,6 +125,7 @@ The resources of this article are mainly from the following websites：
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
 - [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
 - [三毛 - 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [Poetry - Typescript 实践总结[基础+工程+实践]](http://blog.poetries.top/2019/09/03/ts-in-action/)
 
 #### Practical
 
