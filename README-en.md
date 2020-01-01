@@ -18,53 +18,7 @@ The resources of this article are mainly from the following websites：
 
 ## Contents
 
-<!-- TOC -->
-
-- [Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)
-    - [Contents](#contents)
-    - [TypeScript Tutorials](#typescript-tutorials)
-        - [Features](#features)
-        - [Chinese](#chinese)
-            - [Beginner](#beginner)
-            - [Advanced](#advanced)
-            - [Practical](#practical)
-        - [English](#english)
-            - [Features](#features-1)
-            - [Tutorials](#tutorials)
-            - [Samples](#samples)
-            - [Guide](#guide)
-            - [Awesome](#awesome)
-    - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)
-    - [TypeScript Design patterns](#typescript-design-patterns)
-    - [TypeScript Videos](#typescript-videos)
-        - [Chinese](#chinese-1)
-        - [English](#english-1)
-    - [TypeScript QA](#typescript-qa)
-    - [TypeScript Books](#typescript-books)
-        - [Chinese](#chinese-2)
-        - [English](#english-2)
-    - [TypeScript Tools/Libraries/frameworks](#typescript-toolslibrariesframeworks)
-        - [Build](#build)
-            - [webpack](#webpack)
-            - [gulp](#gulp)
-            - [grunt](#grunt)
-            - [compiler](#compiler)
-            - [linter](#linter)
-        - [Ioc](#ioc)
-        - [Doc](#doc)
-        - [Data Structure](#data-structure)
-        - [Database](#database)
-        - [Server](#server)
-    - [TypeScript IDE](#typescript-ide)
-        - [Offline](#offline)
-            - [IDE/Plugins](#ideplugins)
-        - [Online](#online)
-            - [Playground](#playground)
-            - [Chrome Extension](#chrome-extension)
-    - [Contributing](#contributing)
-        - [Guide](#guide-1)
-
-<!-- /TOC -->
+<!-- TOC -->autoauto- [![ts-logo](media/ts-favicon-96x96.png) Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)auto    - [Contents](#contents)auto    - [TypeScript Tutorials](#typescript-tutorials)auto        - [Features](#features)auto        - [Chinese](#chinese)auto            - [Beginner](#beginner)auto            - [Advanced](#advanced)auto            - [Practical](#practical)auto        - [English](#english)auto            - [Features](#features-1)auto            - [Tutorials](#tutorials)auto            - [Samples](#samples)auto            - [Guide](#guide)auto            - [Awesome](#awesome)auto    - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)auto    - [TypeScript Design patterns](#typescript-design-patterns)auto    - [TypeScript Videos](#typescript-videos)auto        - [Chinese](#chinese-1)auto        - [English](#english-1)auto    - [TypeScript QA](#typescript-qa)auto    - [TypeScript Books](#typescript-books)auto        - [Chinese](#chinese-2)auto        - [English](#english-2)auto    - [TypeScript Tools/Libraries](#typescript-toolslibraries)auto        - [Build](#build)auto            - [webpack](#webpack)auto            - [gulp](#gulp)auto            - [grunt](#grunt)auto            - [compiler](#compiler)auto            - [linter](#linter)auto        - [Ioc](#ioc)auto        - [Doc](#doc)auto        - [Data Structure](#data-structure)auto        - [Database](#database)auto        - [Server](#server)auto    - [TypeScript IDE](#typescript-ide)auto        - [Offline](#offline)auto            - [IDE/Plugins](#ideplugins)auto        - [Online](#online)auto            - [Playground](#playground)auto            - [Chrome Extension](#chrome-extension)auto    - [Contributing](#contributing)auto        - [Guide](#guide-1)autoauto<!-- /TOC -->
 
 ## TypeScript Tutorials
 
@@ -301,25 +255,34 @@ The resources of this article are mainly from the following websites：
 
 ### Chinese
 
-- [Learning TypeScript (中文版)](https://item.jd.com/12001593.html)
-- [迈向 Angular 2: 基于 TypeScript 的高性能 SPA 框架](https://item.jd.com/11948831.html)
+- [Learning TypeScript (中文版)](https://amazon.cn/gp/product/B071Z65LLT/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B071Z65LLT&linkCode=as2&tag=semlinker-23&linkId=90e1e4c6c17c6b68e463654b727114de)
+- [TypeScript实战指南](https://amazon.cn/gp/product/B07WYWVC3Q/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07WYWVC3Q&linkCode=as2&tag=semlinker-23&linkId=9737c185dcd0d31547e4c32999dffb60)
+- [TypeScript图形渲染实战：2D架构设计与实现](https://amazon.cn/gp/product/B07PDL3MDX/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07PDL3MDX&linkCode=as2&tag=semlinker-23&linkId=f5618de108e9c829391e9f164e37ff11)
+- [迈向 Angular 2: 基于 TypeScript 的高性能 SPA 框架](https://amzn.to/37vb1ke)
 
 ### English
 
-- [TypeScript Essentials](https://www.amazon.cn/dp/B00OUJL6P0)
+- [TypeScript Essentials](https://amzn.to/2QgRtde)
 - [Mastering TypeScript](https://www.amazon.cn/dp/B00WMLHQFC)
-- [Mastering TypeScript - Second Edition](https://www.amazon.cn/dp/B01DPR2EQC/)
-- [Learning TypeScript](https://www.amazon.cn/dp/B0151N0G7W/)
-- [Learning TypeScript 2.x](https://www.amazon.cn/dp/B078PQ6MF4/)
-- [TypeScript 2.x By Example](https://www.amazon.cn/dp/B075V9K4CC/)
-- [TypeScript 2.x for Angular Developers](https://www.amazon.cn/dp/B0753J1W3Z)
+- [Mastering TypeScript - Second Edition](https://amzn.to/2stJzo7)
+- [Mastering TypeScript 3: Build enterprise-ready, industrial-strength web applications using TypeScript 3 and modern frameworks, 3rd Edition](https://amzn.to/37q4Q0x)
+- [TypeScript 3.0 Quick Start Guide: The easiest way to learn TypeScript](https://amzn.to/2ZFPt1q)
+- [Learn React with TypeScript 3: Beginner's guide to modern React web development with TypeScript 3](https://amzn.to/2rJZ4rs)
+- [Advanced TypeScript Programming Projects: Build 9 different apps with TypeScript 3 and JavaScript frameworks such as Angular, React, and Vue](https://amzn.to/2ZJiKYV)
+- [Hands-On RESTful Web Services with TypeScript 3: Design and develop scalable RESTful APIs for your applications](https://amzn.to/36aPNHX)
+- [Hands-On TypeScript for C# and .NET Core Developers: Transition from C# to TypeScript 3.1 and build applications with ASP.NET Core 2](https://amazon.cn/gp/product/B07GYR34S8/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07GYR34S8&linkCode=as2&tag=semlinker-23&linkId=e7e8425deb0e1072ac83a80645d41725)
+- [Hands-On Functional Programming with TypeScript: Explore functional and reactive programming to create robust and testable TypeScript applications](https://amazon.cn/gp/product/B07KSXLCNK/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07KSXLCNK&linkCode=as2&tag=semlinker-23&linkId=41627cba9b3218ee4c1c98c58c3840e1)
+- [Learning TypeScript](https://amazon.cn/gp/product/B0151N0G7W/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0151N0G7W&linkCode=as2&tag=semlinker-23&linkId=dfaf71cb179bab7e12e5efec9c989d94)
+- [Learning TypeScript 2.x](https://amzn.to/2QcvCUu)
+- [TypeScript 2.x By Example](https://amzn.to/2ZGE817)
+- [TypeScript 2.x for Angular Developers](https://amazon.cn/gp/product/B0753J1W3Z/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0753J1W3Z&linkCode=as2&tag=semlinker-23&linkId=516a4d410a52a13ab2eaa2c6f00ec3a5)
 - [Angular 2 Development with TypeScript ](https://www.amazon.cn/dp/1617293121)
-- [TypeScript: Modern JavaScript Development](https://www.amazon.cn/dp/B01MZ2PTHY/)
-- [TypeScript Blueprints](https://www.amazon.cn/dp/B01CUI0JW8)
+- [TypeScript: Modern JavaScript Development](https://amzn.to/2ZJjld7)
+- [TypeScript Blueprints](https://amazon.cn/gp/product/B01CUI0JW8/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B01CUI0JW8&linkCode=as2&tag=semlinker-23&linkId=53a25b758a65aae7f591b6349d2fc668)
 - [Pro TypeScript](https://www.amazon.cn/dp/1484232488)
-- [TypeScript Design Patterns](https://www.amazon.cn/dp/B01BSTEDI6/)
-- [TypeScript High Performance](https://www.amazon.cn/dp/B071VVFD4D/)
-- [TypeScript Microservices](https://www.amazon.cn/dp/B078N3XCVG/)
+- [TypeScript Design Patterns](https://amzn.to/2FbWkpY)
+- [TypeScript High Performance](https://amzn.to/2QAERNk)
+- [TypeScript Microservices](https://amzn.to/39ru7cx)
 
 ## TypeScript Tools/Libraries
 
