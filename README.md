@@ -18,7 +18,53 @@
 
 ## 目录
 
-<!-- TOC -->autoauto- [![ts-logo](media/ts-favicon-96x96.png) Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)auto    - [目录](#目录)auto    - [TypeScript 教程](#typescript-教程)auto        - [选型/新特性](#选型新特性)auto        - [中文资源](#中文资源)auto            - [入门](#入门)auto            - [进阶](#进阶)auto            - [实战](#实战)auto        - [英文资源](#英文资源)auto            - [特性](#特性)auto            - [教程](#教程)auto            - [示例](#示例)auto            - [风格指南](#风格指南)auto            - [Awesome](#awesome)auto    - [TypeScript Starter/Boilerplate](#typescript-starterboilerplate)auto    - [TypeScript 设计模式](#typescript-设计模式)auto    - [TypeScript 视频](#typescript-视频)auto        - [中文视频](#中文视频)auto        - [英文视频](#英文视频)auto    - [TypeScript 问答](#typescript-问答)auto    - [TypeScript 书籍](#typescript-书籍)auto        - [中文书籍](#中文书籍)auto        - [英文书籍](#英文书籍)auto    - [TypeScript 工具/库/框架](#typescript-工具库框架)auto        - [构建工具](#构建工具)auto            - [webpack](#webpack)auto            - [gulp](#gulp)auto            - [grunt](#grunt)auto            - [compiler](#compiler)auto            - [linter](#linter)auto        - [Ioc](#ioc)auto        - [文档生成](#文档生成)auto        - [数据结构](#数据结构)auto        - [数据库](#数据库)auto        - [Server](#server)auto    - [TypeScript IDE](#typescript-ide)auto        - [Offline](#offline)auto            - [IDE/插件](#ide插件)auto        - [Online](#online)auto            - [Playground](#playground)auto            - [Chrome 扩展](#chrome-扩展)auto    - [贡献](#贡献)auto        - [指南](#指南)autoauto<!-- /TOC -->
+<!-- TOC -->
+
+- [Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)
+    - [目录](#目录)
+    - [TypeScript 教程](#typescript-教程)
+        - [选型/新特性](#选型新特性)
+        - [中文资源](#中文资源)
+            - [入门](#入门)
+            - [进阶](#进阶)
+            - [实战](#实战)
+        - [英文资源](#英文资源)
+            - [特性](#特性)
+            - [教程](#教程)
+            - [示例](#示例)
+            - [风格指南](#风格指南)
+            - [Awesome](#awesome)
+    - [TypeScript Starter/Boilerplate](#typescript-starterboilerplate)
+    - [TypeScript 设计模式](#typescript-设计模式)
+    - [TypeScript 视频](#typescript-视频)
+        - [中文视频](#中文视频)
+        - [英文视频](#英文视频)
+    - [TypeScript 问答](#typescript-问答)
+    - [TypeScript 书籍](#typescript-书籍)
+        - [中文书籍](#中文书籍)
+        - [英文书籍](#英文书籍)
+    - [TypeScript 工具/库/框架](#typescript-工具库框架)
+        - [构建工具](#构建工具)
+            - [webpack](#webpack)
+            - [gulp](#gulp)
+            - [grunt](#grunt)
+            - [compiler](#compiler)
+            - [linter](#linter)
+        - [Ioc](#ioc)
+        - [文档生成](#文档生成)
+        - [数据结构](#数据结构)
+        - [数据库](#数据库)
+        - [Server](#server)
+    - [TypeScript IDE](#typescript-ide)
+        - [Offline](#offline)
+            - [IDE/插件](#ide插件)
+        - [Online](#online)
+            - [Playground](#playground)
+            - [Chrome 扩展](#chrome-扩展)
+    - [贡献](#贡献)
+        - [指南](#指南)
+
+<!-- /TOC -->
 
 ## TypeScript 教程
 

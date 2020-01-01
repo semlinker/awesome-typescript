@@ -18,7 +18,53 @@ The resources of this article are mainly from the following websites：
 
 ## Contents
 
-<!-- TOC -->autoauto- [![ts-logo](media/ts-favicon-96x96.png) Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)auto    - [Contents](#contents)auto    - [TypeScript Tutorials](#typescript-tutorials)auto        - [Features](#features)auto        - [Chinese](#chinese)auto            - [Beginner](#beginner)auto            - [Advanced](#advanced)auto            - [Practical](#practical)auto        - [English](#english)auto            - [Features](#features-1)auto            - [Tutorials](#tutorials)auto            - [Samples](#samples)auto            - [Guide](#guide)auto            - [Awesome](#awesome)auto    - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)auto    - [TypeScript Design patterns](#typescript-design-patterns)auto    - [TypeScript Videos](#typescript-videos)auto        - [Chinese](#chinese-1)auto        - [English](#english-1)auto    - [TypeScript QA](#typescript-qa)auto    - [TypeScript Books](#typescript-books)auto        - [Chinese](#chinese-2)auto        - [English](#english-2)auto    - [TypeScript Tools/Libraries](#typescript-toolslibraries)auto        - [Build](#build)auto            - [webpack](#webpack)auto            - [gulp](#gulp)auto            - [grunt](#grunt)auto            - [compiler](#compiler)auto            - [linter](#linter)auto        - [Ioc](#ioc)auto        - [Doc](#doc)auto        - [Data Structure](#data-structure)auto        - [Database](#database)auto        - [Server](#server)auto    - [TypeScript IDE](#typescript-ide)auto        - [Offline](#offline)auto            - [IDE/Plugins](#ideplugins)auto        - [Online](#online)auto            - [Playground](#playground)auto            - [Chrome Extension](#chrome-extension)auto    - [Contributing](#contributing)auto        - [Guide](#guide-1)autoauto<!-- /TOC -->
+<!-- TOC -->
+
+- [Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)
+    - [Contents](#contents)
+    - [TypeScript Tutorials](#typescript-tutorials)
+        - [Features](#features)
+        - [Chinese](#chinese)
+            - [Beginner](#beginner)
+            - [Advanced](#advanced)
+            - [Practical](#practical)
+        - [English](#english)
+            - [Features](#features-1)
+            - [Tutorials](#tutorials)
+            - [Samples](#samples)
+            - [Guide](#guide)
+            - [Awesome](#awesome)
+    - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)
+    - [TypeScript Design patterns](#typescript-design-patterns)
+    - [TypeScript Videos](#typescript-videos)
+        - [Chinese](#chinese-1)
+        - [English](#english-1)
+    - [TypeScript QA](#typescript-qa)
+    - [TypeScript Books](#typescript-books)
+        - [Chinese](#chinese-2)
+        - [English](#english-2)
+    - [TypeScript Tools/Libraries/frameworks](#typescript-toolslibrariesframeworks)
+        - [Build](#build)
+            - [webpack](#webpack)
+            - [gulp](#gulp)
+            - [grunt](#grunt)
+            - [compiler](#compiler)
+            - [linter](#linter)
+        - [Ioc](#ioc)
+        - [Doc](#doc)
+        - [Data Structure](#data-structure)
+        - [Database](#database)
+        - [Server](#server)
+    - [TypeScript IDE](#typescript-ide)
+        - [Offline](#offline)
+            - [IDE/Plugins](#ideplugins)
+        - [Online](#online)
+            - [Playground](#playground)
+            - [Chrome Extension](#chrome-extension)
+    - [Contributing](#contributing)
+        - [Guide](#guide-1)
+
+<!-- /TOC -->
 
 ## TypeScript Tutorials
 
