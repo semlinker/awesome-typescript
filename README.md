@@ -378,6 +378,7 @@ The resources of this article are mainly from the following websites：
 
 - [Typeorm - typeorm](https://github.com/typeorm/typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
+- [MikroORM](https://github.com/mikro-orm/mikro-orm)
 
 ### Server
 
