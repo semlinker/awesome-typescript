@@ -16,6 +16,23 @@
 
 ![fer_road_qrcode](media/fer_road_qrcode.jpg)
 
+### Semlinker's Blog
+
+#### TypeScript 基础
+
+- [TypeScript 交叉类型](http://www.semlinker.com/ts-intersection-types/)
+- [TypeScript 枚举类型](http://www.semlinker.com/ts-enum-type/)
+- [TypeScript never 类型](http://www.semlinker.com/ts-never-type/)
+
+#### TypeScript 设计模式
+
+- [TypeScript 设计模式之单例模式](http://www.semlinker.com/ts-singleton-pattern/)
+
+- [TypeScript 设计模式之观察者模式](http://www.semlinker.com/ts-observer-pattern/)
+- [TypeScript 设计模式之适配器模式](http://www.semlinker.com/ts-adapter-pattern/)
+- [TypeScript 设计模式之模板方法](http://www.semlinker.com/ts-template-method/)
+- [TypeScript 设计模式之享元模式](http://www.semlinker.com/ts-flyweight-pattern/)
+
 ## 目录
 
 <!-- TOC -->
@@ -126,6 +143,7 @@
 - [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
 - [三毛 - 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [Poetry - Typescript 实践总结[基础+工程+实践]](http://blog.poetries.top/2019/09/03/ts-in-action/)
+- [Shanyue - TypeScript 高级技巧](https://juejin.im/post/5cffb431f265da1b7401f466)
 
 #### 实战
 
