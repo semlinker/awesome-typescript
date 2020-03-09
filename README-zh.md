@@ -23,6 +23,8 @@
 - [TypeScript 交叉类型](http://www.semlinker.com/ts-intersection-types/)
 - [TypeScript 枚举类型](http://www.semlinker.com/ts-enum-type/)
 - [TypeScript never 类型](http://www.semlinker.com/ts-never-type/)
+- [TypeScript 元组类型](http://www.semlinker.com/ts-tuple-type/)
+- [TypeScript keyof 操作符](http://www.semlinker.com/ts-keyof/)
 
 #### TypeScript 设计模式
 
