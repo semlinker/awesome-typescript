@@ -355,6 +355,10 @@ The resources of this article are mainly from the following websites：
 
 ### Build
 
+#### Web API
+
+- [ts-audio](https://github.com/evandrolg/ts-audio)
+
 #### webpack
 
 - [s-panferov - awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader)
