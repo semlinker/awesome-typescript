@@ -16,24 +16,11 @@ The resources of this article are mainly from the following websites：
 
 ![fer_road_qrcode](media/fer_road_qrcode.jpg)
 
-### Semlinker's Blog
+<<前端进阶篇>> PDF 出炉了 — 「阿宝哥」，精心准备的 6 万多字 170 页的前端进阶资料
 
-#### TypeScript Basic
+<img src="media/frontend-advanced.jpg" style="zoom: 25%;" />
 
-- [TypeScript 交叉类型](http://www.semlinker.com/ts-intersection-types/)
-- [TypeScript 枚举类型](http://www.semlinker.com/ts-enum-type/)
-- [TypeScript never 类型](http://www.semlinker.com/ts-never-type/)
-- [TypeScript 元组类型](http://www.semlinker.com/ts-tuple-type/)
-- [TypeScript keyof 操作符](http://www.semlinker.com/ts-keyof/)
-
-#### TypeScript Design Pattern
-
-- [TypeScript 设计模式之单例模式](http://www.semlinker.com/ts-singleton-pattern/)
-
-- [TypeScript 设计模式之观察者模式](http://www.semlinker.com/ts-observer-pattern/)
-- [TypeScript 设计模式之适配器模式](http://www.semlinker.com/ts-adapter-pattern/)
-- [TypeScript 设计模式之模板方法](http://www.semlinker.com/ts-template-method/)
-- [TypeScript 设计模式之享元模式](http://www.semlinker.com/ts-flyweight-pattern/)
+点击此 [全栈修仙之路 - 前端进阶篇](http://book.bugstack.cn/#s/6Epf5-uw) 链接，即可下载电子书。
 
 ## Contents
 

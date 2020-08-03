@@ -18,7 +18,7 @@
 
 <<前端进阶篇>> PDF 出炉了 — 「阿宝哥」，精心准备的 6 万多字 170 页的前端进阶资料
 
-<img src="media/frontend-advanced.jpg" style="zoom: 33%;" />
+<img src="media/frontend-advanced.jpg" style="zoom: 25%;" />
 
 点击此 [全栈修仙之路 - 前端进阶篇](http://book.bugstack.cn/#s/6Epf5-uw) 链接，即可下载电子书。
 
