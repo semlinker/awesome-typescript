@@ -16,11 +16,11 @@ The resources of this article are mainly from the following websites：
 
 ![fer_road_qrcode](media/fer_road_qrcode.jpg)
 
-<<前端进阶篇>> PDF 出炉了 — 「阿宝哥」，精心准备的 6 万多字 170 页的前端进阶资料
+<<前端进阶篇 v1.1>> PDF 出炉了 — 「阿宝哥」，精心准备的 9 万多字 242 页的前端进阶资料。发布后 5 天内下载量为 **3170**。
 
 <img src="media/frontend-advanced.jpg" style="zoom: 25%;" />
 
-点击此 [全栈修仙之路 - 前端进阶篇](http://book.bugstack.cn/#s/6Epf5-uw) 链接，即可下载电子书。
+点击此 [全栈修仙之路 - 前端进阶篇](http://book.bugstack.cn/#s/6I-ldR3A) 链接，即可下载电子书。
 
 ## Contents
 
