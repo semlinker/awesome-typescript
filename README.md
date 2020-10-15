@@ -16,11 +16,11 @@ The resources of this article are mainly from the following websites：
 
 ![fer_road_qrcode](media/fer_road_qrcode.jpg)
 
-<<前端进阶篇 v1.1>> PDF 出炉了 — 「阿宝哥」，精心准备的 9 万多字 242 页的前端进阶资料。发布后 5 天内下载量为 **3170**。
+<<重学TS v1.0>> PDF 出炉了 — 「阿宝哥」，精心准备的 228 页的前端进阶资料，不可多得的学习指南。
 
-<img src="media/frontend-advanced-intro-v1.1.jpg" style="zoom: 25%;" />
+<img src="media/ts-cover-v1.0.png" style="zoom: 25%;" />
 
-点击此 [全栈修仙之路 - 前端进阶篇](http://book.bugstack.cn/#s/6I-ldR3A) 链接，即可下载电子书。
+点击此 [全栈修仙之路 - 重学TS](http://book.bugstack.cn/#s/6TAYl8NQ) 链接，即可下载电子书。
 
 ## Contents
 
