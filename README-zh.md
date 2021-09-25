@@ -380,6 +380,7 @@
 ### 数据库
 
 - [Typeorm - typeorm](https://github.com/typeorm/typeorm)
+  - [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
 
 ### Server
@@ -387,6 +388,7 @@
 * [Alibaba - egg.js](https://eggjs.org/)
 * [welefen - thinkjs](https://github.com/thinkjs/thinkjs)
 * [kamilmysliwiec - nest](https://github.com/nestjs/nest)
+  * [samchon - nestia](https://github.com/samchon/nestia)
 * [samchon - tgrid](https://github.com/samchon/tgrid)
 * [samchon - mutex-server](https://github.com/samchon/mutex-server)
 
