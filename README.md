@@ -288,6 +288,7 @@ The resources of this article are mainly from the following websites：
 - [udemy - TypeScript: Learn the Basics in a Refreshing Way](https://www.udemy.com/typescript-hero/)
 - [youtube - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
 - [scrimba - Introduction to TypeScript](https://scrimba.com/g/gintrototypescript)
+- [Manning Publications - Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI)
 
 ## TypeScript QA
 
@@ -333,6 +334,7 @@ The resources of this article are mainly from the following websites：
 - [TypeScript Design Patterns](https://amzn.to/2FbWkpY)
 - [TypeScript High Performance](https://amzn.to/2QAERNk)
 - [TypeScript Microservices](https://amzn.to/39ru7cx)
+- [TypeScript Quickly](https://www.manning.com/books/typescript-quickly)
 
 ## TypeScript Tools/Libraries
 
