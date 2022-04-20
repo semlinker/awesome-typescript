@@ -357,6 +357,7 @@ The resources of this article are mainly from the following websites：
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
+- [samchon - typescript-json](https://github.com/samchon/typescript-json)
 
 #### linter
 
