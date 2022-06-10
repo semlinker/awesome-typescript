@@ -437,6 +437,7 @@ The resources of this article are mainly from the following websites：
 #### Chrome Extension
 
 - [OctoLinker](https://github.com/OctoLinker/browser-extension)
+- [lc-mate]([chrome-extension](https://github.com/cglotr/lc-mate))
 
 ## Contributing
 
