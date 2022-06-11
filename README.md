@@ -379,6 +379,7 @@ The resources of this article are mainly from the following websites：
 * [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
 * [Injex Framework](https://www.injex.dev)
 * [Injex Express Plugin](https://www.injex.dev/docs/plugins/express)
+* [DIOD - diod](https://github.com/artberri/diod)
 
 ### Doc
 
