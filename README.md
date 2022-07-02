@@ -16,7 +16,18 @@ The resources of this article are mainly from the following websites：
 
 ![fer_road_qrcode](media/fer_road_qrcode.jpg)
 
-<<重学TS v1.0>> PDF 出炉了 — 「阿宝哥」，精心准备的 228 页的前端进阶资料，不可多得的学习指南。点击此 [全栈修仙之路 - 重学TS](http://book.bugstack.cn/#s/6TAYl8NQ) 链接，即可下载电子书。
+<<重学TS v1.0>> PDF 出炉了 — 「阿宝哥」，精心准备的 228 页的前端进阶资料，不可多得的学习指南。点击此 [全栈修仙之路 - 重学TS](https://pan.baidu.com/s/1E8vbrLYSla9sraDKehrDJg) 链接，提取码: **44tw**，即可下载电子书。
+
+🔥🔥🔥 阿宝哥精心准备的 **《轻松学 TypeScript》** 视频教程来了，以生动形象的动画形式带你搞定 TypeScript 的难点和核心知识点，强烈推荐。目前已更新到第八期，其中两期阅读量均已破万。
+
+- [TypeScript 泛型中的 T、K、V 等到底是个啥？](https://www.bilibili.com/video/BV1sY4y1H7vk/)
+- [用了 TS 映射类型，同事直呼内行！](https://www.bilibili.com/video/BV1Wr4y1J7x3/)
+- [Vue 3 中使用的函数重载有啥用？](https://www.bilibili.com/video/BV1JS4y1Y7Jy/)
+- [TypeScript 你还只会用 any？](https://www.bilibili.com/video/BV1WR4y1P7dw/)
+- [搞懂 TypeScript 联合类型的多个知识点！](https://www.bilibili.com/video/BV1jY4y1i7Lh/)
+- [TypeScript 中的类型到底是个啥？](https://www.bilibili.com/video/BV1Zq4y1a79K/)
+- [仅知道键和值的类型，如何定义 TS 对象类型？](https://www.bilibili.com/video/BV1RY411A7YS/)
+- [TS 内置工具类型中的 keyof 操作符有啥用？](https://www.bilibili.com/video/BV1nT4y1a7AR/)
 
 ## Contents
 
