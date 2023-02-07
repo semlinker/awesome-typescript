@@ -63,6 +63,8 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
         - [Online](#online)
             - [Playground](#playground)
             - [Chrome Extension](#chrome-extension)
+    - [TypeScript Roadmap](#typescript-roadmap)
+        - [Roadmap]()
     - [Contributing](#contributing)
         - [Guide](#guide-1)
 
@@ -426,6 +428,10 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 #### Chrome Extension
 
 - [OctoLinker](https://github.com/OctoLinker/browser-extension)
+
+## TypeScript Roadmap
+
+- [Typescript Roadmap](https://roadmap.sh/typescript)
 
 ## Contributing
 
