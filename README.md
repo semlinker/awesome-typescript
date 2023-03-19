@@ -287,6 +287,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 - [udemy - Introduction to TypeScript](https://www.udemy.com/typescript/)
 - [udemy - TypeScript: Learn the Basics in a Refreshing Way](https://www.udemy.com/typescript-hero/)
 - [youtube - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
+- [youtube - Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 - [scrimba - Introduction to TypeScript](https://scrimba.com/g/gintrototypescript)
 
 ## TypeScript QA
