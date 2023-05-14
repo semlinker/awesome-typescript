@@ -367,6 +367,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 * [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
 * [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
+* [DIOD - diod](https://github.com/artberri/diod)
 
 ### 文档生成
 
