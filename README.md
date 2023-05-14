@@ -363,6 +363,10 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 - [palantir - tslint](https://github.com/palantir/tslint)
 
+#### config management
+
+- [presetter](https://github.com/alvis/presetter)
+
 ### Ioc
 
 * [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
