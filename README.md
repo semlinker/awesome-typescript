@@ -336,6 +336,7 @@ The resources of this article are mainly from the following websites：
 - [TypeScript Microservices](https://amzn.to/39ru7cx)
 - [TypeScript Quickly](https://www.manning.com/books/typescript-quickly)
 - [Essential TypeScript 5](https://www.manning.com/books/essential-typescript-5)
+- [100 TypeScript Mistakes and How to Avoid Them](https://www.manning.com/books/100-typescript-mistakes-and-how-to-avoid-them)
 
 ## TypeScript Tools/Libraries
 
