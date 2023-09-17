@@ -379,6 +379,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 - [dcodeIO - protobuf.js](https://github.com/dcodeIO/protobuf.js)
 - [basarat - typescript-collections](https://github.com/basarat/typescript-collections)
 - [samchon - tstl](https://github.com/samchon/tstl)
+- [sweet-monads - lazy collections and monads](https://github.com/JSMonk/sweet-monads)
 
 ### Database
 
