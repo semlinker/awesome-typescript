@@ -258,6 +258,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [kucherenko - cli-typescript-starter](https://github.com/kucherenko/cli-typescript-starter)
 
 ## TypeScript Design patterns
 
