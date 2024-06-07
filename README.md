@@ -423,6 +423,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 - [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/)
 - [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/)
 - [TypeScript Play](https://agentcooper.github.io/typescript-play/)
+- [PostgreSQL Browser](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 #### Chrome Extension
 
