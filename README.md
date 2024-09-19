@@ -362,6 +362,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 #### linter
 
 - [palantir - tslint](https://github.com/palantir/tslint)
+- [ESLint](https://eslint.org/)
 
 ### Ioc
 
