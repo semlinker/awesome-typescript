@@ -363,6 +363,10 @@
 - [palantir - tslint](https://github.com/palantir/tslint)
 - [ESLint](https://eslint.org/)
 
+#### config management
+
+- [presetter](https://github.com/alvis/presetter)
+
 ### Ioc
 
 - [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
