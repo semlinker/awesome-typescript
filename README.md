@@ -1,71 +1,65 @@
 # ![ts-logo](media/ts-favicon-96x96.png) Awesome TypeScript
 
-![awesome](media/awesome.svg)  ![license](media/creative-commons.svg)
+![awesome](media/awesome.svg) ![license](media/creative-commons.svg)
 
 [TypeScript](https://www.typescriptlang.org/) is a free and open source programming language developed by Microsoft. It is a superset of JavaScript and essentially adds optional static typing and class-based object-oriented programming to the language.
 
-> Awesome TypeScript inspired by  [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript)，Thanks [dzharii](https://github.com/dzharii)。
+<div align="center">
+<a href="https://shadcn.batchtool.com/?utm_source=github">
+<img src="./media/awesome-shadcn-ui.jpg" alt="og of awesome-shadcn-ui" height="100%" width="100%">
+</a>
+</div>
 
-The resources of this article are mainly from the following websites：
-
-[![sf-favicon.ico](media/sf-favicon.ico)](https://segmentfault.com/) [![juejin-favicon](media/juejin-favicon.ico)](https://juejin.im/timeline) [![zhihu-favicon](media/zhihu-favicon.ico)](https://www.zhihu.com/explore) [![jianshu-favicon](media/jianshu-favicon.ico)](https://www.jianshu.com/) [![toutiao-favicon](media/toutiao-favicon.ico)](https://toutiao.io/) [![medium-favicon](media/medium-favicon.ico)](https://medium.com/)[![github-favicon](media/github-favicon.ico)](https://github.com/)
-
-[Chinese](https://github.com/semlinker/awesome-typescript/blob/master/README-zh.md) | [English](https://github.com/semlinker/awesome-typescript/blob/master/README.md)
-
-Welcome to the **Mastering TypeScript series**. This series will introduce the core knowledge and techniques of TypeScript **in the form of animations**. Let's learn together! Previous articles are as follows:
-- [What Are K, T, and V in TypeScript Generics?](https://medium.com/frontend-canteen/what-are-k-t-and-v-in-typescript-generics-9fabe1d0f0f3)
-- [Using TypeScript Mapped Types Like a Pro](https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a)
-- [Use TypeScript Conditional Types Like a Pro](https://javascript.plainenglish.io/use-typescript-conditional-types-like-a-pro-7baea0ad05c5)
-- [TypeScript Visualized: 15 Most Used Utility Types](https://javascript.plainenglish.io/15-utility-types-that-every-typescript-developer-should-know-6cf121d4047c)
+<h4><a href="https://github.com/bytefer/awesome-shadcn-ui">awesome-shadcn-ui</a></h4>
 
 ## Contents
 
 <!-- TOC -->
 
 - [Awesome TypeScript](#ts-logomediats-favicon-96x96png-awesome-typescript)
-    - [Contents](#contents)
-    - [TypeScript Tutorials](#typescript-tutorials)
-        - [Features](#features)
-        - [Chinese](#chinese)
-            - [Beginner](#beginner)
-            - [Advanced](#advanced)
-            - [Practical](#practical)
-        - [English](#english)
-            - [Features](#features-1)
-            - [Tutorials](#tutorials)
-            - [Samples](#samples)
-            - [Guide](#guide)
-            - [Awesome](#awesome)
-    - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)
-    - [TypeScript Design patterns](#typescript-design-patterns)
-    - [TypeScript Real World Design Patterns](https://github.com/vahidvdn/realworld-design-patterns)
-    - [TypeScript Videos](#typescript-videos)
-        - [Chinese](#chinese-1)
-        - [English](#english-1)
-    - [TypeScript QA](#typescript-qa)
-    - [TypeScript Books](#typescript-books)
-        - [Chinese](#chinese-2)
-        - [English](#english-2)
-    - [TypeScript Tools/Libraries/frameworks](#typescript-toolslibrariesframeworks)
-        - [Build](#build)
-            - [webpack](#webpack)
-            - [gulp](#gulp)
-            - [grunt](#grunt)
-            - [compiler](#compiler)
-            - [linter](#linter)
-        - [Ioc](#ioc)
-        - [Doc](#doc)
-        - [Data Structure](#data-structure)
-        - [Database](#database)
-        - [Server](#server)
-    - [TypeScript IDE](#typescript-ide)
-        - [Offline](#offline)
-            - [IDE/Plugins](#ideplugins)
-        - [Online](#online)
-            - [Playground](#playground)
-            - [Chrome Extension](#chrome-extension)
-    - [Contributing](#contributing)
-        - [Guide](#guide-1)
+  - [Contents](#contents)
+  - [TypeScript Tutorials](#typescript-tutorials)
+    - [Features](#features)
+    - [Chinese](#chinese)
+      - [Beginner](#beginner)
+      - [Advanced](#advanced)
+      - [Practical](#practical)
+    - [English](#english)
+      - [Features](#features-1)
+      - [Tutorials](#tutorials)
+      - [Samples](#samples)
+      - [Guide](#guide)
+      - [Awesome](#awesome)
+  - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)
+  - [TypeScript Design patterns](#typescript-design-patterns)
+  - [TypeScript Real World Design Patterns](https://github.com/vahidvdn/realworld-design-patterns)
+  - [TypeScript Videos](#typescript-videos)
+    - [Chinese](#chinese-1)
+    - [English](#english-1)
+  - [TypeScript QA](#typescript-qa)
+  - [TypeScript Books](#typescript-books)
+    - [Chinese](#chinese-2)
+    - [English](#english-2)
+  - [TypeScript Tools/Libraries/frameworks](#typescript-toolslibrariesframeworks)
+    - [Build](#build)
+      - [webpack](#webpack)
+      - [gulp](#gulp)
+      - [grunt](#grunt)
+      - [compiler](#compiler)
+      - [linter](#linter)
+    - [Ioc](#ioc)
+    - [Doc](#doc)
+    - [Data Structure](#data-structure)
+    - [Database](#database)
+    - [Server](#server)
+  - [TypeScript IDE](#typescript-ide)
+    - [Offline](#offline)
+      - [IDE/Plugins](#ideplugins)
+    - [Online](#online)
+      - [Playground](#playground)
+      - [Chrome Extension](#chrome-extension)
+  - [Contributing](#contributing)
+    - [Guide](#guide-1)
 
 <!-- /TOC -->
 
@@ -73,7 +67,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 ### Features
 
-- [蚂蚁金服数据体验技术团队 - TypeScript体系调研报告](https://juejin.im/post/59c46bc86fb9a00a4636f939)
+- [蚂蚁金服数据体验技术团队 - TypeScript 体系调研报告](https://juejin.im/post/59c46bc86fb9a00a4636f939)
 - [Vilicvane - TypeScript 2.0 新特性一览](https://zhuanlan.zhihu.com/p/21629069)
 - [Vilicvane - TypeScript 2.1 新特性一览](https://zhuanlan.zhihu.com/p/24267683)
 - [Vilicvane - TypeScript 2.2 新特性一览](https://zhuanlan.zhihu.com/p/25579011)
@@ -81,11 +75,11 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 - [Microsoft - TypeScript 2.4 新特性一览](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript)
 - [Vilicvane - TypeScript 2.5~2.6 新特性一览](https://zhuanlan.zhihu.com/p/30760290)
 - [黄子毅 - 精读<<TypeScript2.0 - 2.9>>](https://zhuanlan.zhihu.com/p/37374083)
-- [Linux中国 - 一篇缺失的 TypeScript 介绍](https://zhuanlan.zhihu.com/p/28494162)
+- [Linux 中国 - 一篇缺失的 TypeScript 介绍](https://zhuanlan.zhihu.com/p/28494162)
 - [单纯的土豆 - ES5, ES2015 和 TypeScript 的区别](http://www.jianshu.com/p/3c8c7713fa0e)
 - [三七二十 - TypeScript 的好处都有啥？和 JavaScript 的区别在哪？](https://zhuanlan.zhihu.com/p/38526585)
 - [Grain 先森 - 前端-TypeScript VS JavaScript 深度对比](https://www.jianshu.com/p/0dfbcd4a0757)
-- [贺贺v5 - Angular2、Ionic、TypeScript、es6的关系？](http://www.jianshu.com/p/27c026734b8d)
+- [贺贺 v5 - Angular2、Ionic、TypeScript、es6 的关系？](http://www.jianshu.com/p/27c026734b8d)
 - [极客学院 - 使用 TypeScript 提高开发能力](http://www.jianshu.com/p/066a6017db1b)
 - [Hevin - 为什么 Reddit 选择了 TypeScript？](https://zhuanlan.zhihu.com/p/27695708)
 - [JiaXinYi - Angular: 我们为什么选择 TypeScript](https://segmentfault.com/a/1190000010892897)
@@ -106,10 +100,10 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 - [Taobaofed - 认识 TypeScript](http://taobaofed.org/blog/2017/03/09/head-first-typescript/)
 - [Shangpudxd - TypeScript 入门](http://www.jianshu.com/p/4e7094d62b34)
 - [Muyunyun - 从 JavaScript 到 TypeScript](http://muyunyun.cn/posts/66a54fc2/)
-- [Gukson - Typescript基础入门](https://www.jianshu.com/p/103933b7c2b4)
+- [Gukson - Typescript 基础入门](https://www.jianshu.com/p/103933b7c2b4)
 - [oWSQo - TypeScript 入门](https://www.jianshu.com/p/c4e639296b98)
 - [Semlinker - TypeScript 简介及编码规范](https://semlinker.com/ts-intro-and-guide/)
-- [技术胖 - TypeScript图文视频教程](https://juejin.im/post/5ba43b38f265da0aef4e0bc6)
+- [技术胖 - TypeScript 图文视频教程](https://juejin.im/post/5ba43b38f265da0aef4e0bc6)
 
 #### Advanced
 
@@ -124,7 +118,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 - [三毛 - 巧用 TypeScript （五）](https://jkchao.cn/article/5c8a4d99e53a054fad647c15)
 - [Square - TypeScript 3.0 元组类型的用法和一些奇技淫巧](https://zhuanlan.zhihu.com/p/38687656)
 - [Square - Typescript 类型高级技巧，和强约束 bind 的实现](https://zhuanlan.zhihu.com/p/38789971)
-- [腾讯NEXT学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
+- [腾讯 NEXT 学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
 - [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
 - [三毛 - 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
@@ -140,32 +134,32 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 **Vue**
 
-- [薯条真的好好吃哦 - almost最好的Vue + Typescript系列01 环境搭建篇](https://segmentfault.com/a/1190000013676663)
-- [toBeTheLight - Vue 2.5中将迎来有关TypeScript的改进！](https://segmentfault.com/a/1190000011474717)
+- [薯条真的好好吃哦 - almost 最好的 Vue + Typescript 系列 01 环境搭建篇](https://segmentfault.com/a/1190000013676663)
+- [toBeTheLight - Vue 2.5 中将迎来有关 TypeScript 的改进！](https://segmentfault.com/a/1190000011474717)
 - [盘风 - Vue2.5+ Typescript 引入全面指南](https://segmentfault.com/a/1190000011853167)
-- [腾讯Bugly - vuejs+ts+webpack2框架的项目实践](https://mp.weixin.qq.com/s/p2Uc9IV284MXbRHhV2Vf-g)
+- [腾讯 Bugly - vuejs+ts+webpack2 框架的项目实践](https://mp.weixin.qq.com/s/p2Uc9IV284MXbRHhV2Vf-g)
 - [LinkFly - 从 JavaScript 到 TypeScript 6 - Vue 引入 TypeScript](https://segmentfault.com/a/1190000011520912)
-- [SimonZhanglTer - 可能是最全的Vue-TypeScript教程(附实例代码和一键构建工具)](https://segmentfault.com/a/1190000012486378)
+- [SimonZhanglTer - 可能是最全的 Vue-TypeScript 教程(附实例代码和一键构建工具)](https://segmentfault.com/a/1190000012486378)
 - [三命 - vue + typescript 进阶篇](https://segmentfault.com/a/1190000011878086)
 - [qiangdada - TypeScript + 大型项目实战](https://juejin.im/post/5b54886ce51d45198f5c75d7)
-- [距离 - Vue全家桶+TypeScript使用总结](https://segmentfault.com/a/1190000013462418)
-- [海蓝2018 - vue全家桶+Typescript开发一款习惯养成APP](https://segmentfault.com/a/1190000014884801)
-- [Treri - 使用FIS3 和 TypeScript 实现 vue-hackernews-2.0](https://juejin.im/entry/58d8d603b123db199f4639a3)
-- [🍼holyZhengs - 记录一次基于vue、typescript、pwa的项目由开发到部署](https://juejin.im/post/5ba3d205e51d450e8477af33)
-- [大转转FE - 原有vue项目接入typescript](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484478&idx=1&sn=a1222cc6d327fe80690b71e4398a27a2&chksm=fbb58ff7ccc206e12b5e2d57fb7cf84f8fe31dce3213e9b2c9ea00d5555873ddbb68ff2fde84&token=1712114111&lang=zh_CN&rd2werd=1#wechat_redirect)
-- [MartinYin - 使用typescript+vue 编写电影信息小项目！](https://juejin.im/post/5bc2fd06e51d450e7903c783)
+- [距离 - Vue 全家桶+TypeScript 使用总结](https://segmentfault.com/a/1190000013462418)
+- [海蓝 2018 - vue 全家桶+Typescript 开发一款习惯养成 APP](https://segmentfault.com/a/1190000014884801)
+- [Treri - 使用 FIS3 和 TypeScript 实现 vue-hackernews-2.0](https://juejin.im/entry/58d8d603b123db199f4639a3)
+- [🍼holyZhengs - 记录一次基于 vue、typescript、pwa 的项目由开发到部署](https://juejin.im/post/5ba3d205e51d450e8477af33)
+- [大转转 FE - 原有 vue 项目接入 typescript](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484478&idx=1&sn=a1222cc6d327fe80690b71e4398a27a2&chksm=fbb58ff7ccc206e12b5e2d57fb7cf84f8fe31dce3213e9b2c9ea00d5555873ddbb68ff2fde84&token=1712114111&lang=zh_CN&rd2werd=1#wechat_redirect)
+- [MartinYin - 使用 typescript+vue 编写电影信息小项目！](https://juejin.im/post/5bc2fd06e51d450e7903c783)
 - [三毛 - 在 Vue 中使用 TypeScript 的一些思考（实践）](https://jkchao.cn/article/5b3d3bbef9d34142a117b184)
 
 **React**
 
 - [fi3ework - 基于 React + TypeScript 的网易云音乐](https://juejin.im/post/5b715796e51d4566334ca28c)
 - [iKcamp - 翻译 | 开始使用 TypeScript 和 React](https://juejin.im/post/595cc34ff265da6c3d6c262b)
-- [贾顺名 - TypeScript在react项目中的实践](https://segmentfault.com/a/1190000016163937)
+- [贾顺名 - TypeScript 在 react 项目中的实践](https://segmentfault.com/a/1190000016163937)
 - [花生毛豆 - TypeScript 在 React 中使用总结](https://juejin.im/post/5bab4d59f265da0aec22629b)
-- [icepy - 复杂 React 应用中的TypeScript 3.0实践](https://zhuanlan.zhihu.com/p/42141179)
+- [icepy - 复杂 React 应用中的 TypeScript 3.0 实践](https://zhuanlan.zhihu.com/p/42141179)
 - [蚂蚁金服数据体验技术团队 - TypeScript 实践](https://juejin.im/post/5a9c004a6fb9a028b92c9e91)
-- [蚂蚁金服数据体验技术团队 - TypeScript 2.8下的终极React组件模式](https://juejin.im/post/5b07caf16fb9a07aa83f2977)
-- [YDJFE - 一次TypeScript, React, Node, MongoDB的模板式前后端分离开发实践](https://juejin.im/post/5b89e47f51882542c062651f)
+- [蚂蚁金服数据体验技术团队 - TypeScript 2.8 下的终极 React 组件模式](https://juejin.im/post/5b07caf16fb9a07aa83f2977)
+- [YDJFE - 一次 TypeScript, React, Node, MongoDB 的模板式前后端分离开发实践](https://juejin.im/post/5b89e47f51882542c062651f)
 
 **React Native**
 
@@ -177,23 +171,23 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 **Node.js**
 
-- [MarxJiao - 使用webpack搭建基于typescript的node开发环境](https://www.jianshu.com/p/6aab86403dc1)
+- [MarxJiao - 使用 webpack 搭建基于 typescript 的 node 开发环境](https://www.jianshu.com/p/6aab86403dc1)
 - [天猪 - 当 Egg 遇到 TypeScript，收获茶叶蛋一枚](https://zhuanlan.zhihu.com/p/35334932)
 - [奇舞团 - ThinkJS 3.0 如何实现对 TypeScript 的支持](https://75team.com/post/thinkjs-3.0-with-typescript.html)
-- [贾顺名 - TypeScript在node项目中的实践](https://segmentfault.com/a/1190000015719697)
+- [贾顺名 - TypeScript 在 node 项目中的实践](https://segmentfault.com/a/1190000015719697)
 - [贾顺名 - 使用 TS + Sequelize 实现更简洁的 CRUD](https://mp.weixin.qq.com/s/agjjsO-47Qdd517wthadFg)
 
 ### English
 
 #### Features
 
-- [Marius Schulz - TypeScript 2.0: The never Type](https://blog.mariusschulz.com/2016/11/18/typescript-2-0-the-never-type )
+- [Marius Schulz - TypeScript 2.0: The never Type](https://blog.mariusschulz.com/2016/11/18/typescript-2-0-the-never-type)
 - [Marius Schulz - TypeScript 2.0: Tagged Union Types](https://blog.mariusschulz.com/2016/11/03/typescript-2-0-tagged-union-types)
 - [Marius Schulz - TypeScript 2.0: Read-Only Properties](https://blog.mariusschulz.com/2016/10/31/typescript-2-0-read-only-properties)
 - [Marius Schulz - TypeScript 2.1: Object Rest and Spread](https://blog.mariusschulz.com/2016/12/23/typescript-2-1-object-rest-and-spread)
 - [Marius Schulz - TypeScript 2.1: Mapped Types](https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types)
-- [Marius Schulz -  TypeScript 2.1: Improved Inference for Literal Types](https://blog.mariusschulz.com/2017/01/27/typescript-2-1-improved-inference-for-literal-types)
-- [Marius Schulz -  TypeScript 2.1: keyof and Lookup Types](https://blog.mariusschulz.com/2017/01/06/typescript-2-1-keyof-and-lookup-types)
+- [Marius Schulz - TypeScript 2.1: Improved Inference for Literal Types](https://blog.mariusschulz.com/2017/01/27/typescript-2-1-improved-inference-for-literal-types)
+- [Marius Schulz - TypeScript 2.1: keyof and Lookup Types](https://blog.mariusschulz.com/2017/01/06/typescript-2-1-keyof-and-lookup-types)
 - [Marius Schulz - TypeScript 2.2: Dotted Properties and String Index Signatures](https://blog.mariusschulz.com/2017/03/03/typescript-2-2-dotted-properties-and-string-index-signatures)
 - [Marius Schulz - TypeScript 2.3: Generic Parameter Defaults](https://blog.mariusschulz.com/2017/06/02/typescript-2-3-generic-parameter-defaults)
 - [Marius Schulz - TypeScript 2.4: String Enums](https://blog.mariusschulz.com/2017/10/27/typescript-2-4-string-enums)
@@ -262,12 +256,12 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 ## TypeScript Design patterns
 
-- [蚂蚁金服数据体验技术团队 - Typescript玩转设计模式 之 创建型模式](https://juejin.im/post/59fa88ac5188255a6a0d5f31)
-- [蚂蚁金服数据体验技术团队 - Typescript玩转设计模式 之 结构型模式（上）](https://juejin.im/post/5a2d16325188252da0535d73)
-- [蚂蚁金服数据体验技术团队 - Typescript玩转设计模式 之 结构型模式（下）](https://juejin.im/post/5a51da10f265da3e347b1483)
-- [蚂蚁金服数据体验技术团队 - Typescript玩转设计模式 之 对象行为型模式（上）](https://juejin.im/post/5a6dd4dd51882573385ffa8e)
-- [蚂蚁金服数据体验技术团队 -Typescript玩转设计模式 之 对象行为型模式（下）](https://juejin.im/post/5a77211b6fb9a0635774d61a)
-- [杜帅 - 浅析Typescript设计模式](https://zhuanlan.zhihu.com/p/43283016)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 创建型模式](https://juejin.im/post/59fa88ac5188255a6a0d5f31)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 结构型模式（上）](https://juejin.im/post/5a2d16325188252da0535d73)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 结构型模式（下）](https://juejin.im/post/5a51da10f265da3e347b1483)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 对象行为型模式（上）](https://juejin.im/post/5a6dd4dd51882573385ffa8e)
+- [蚂蚁金服数据体验技术团队 -Typescript 玩转设计模式 之 对象行为型模式（下）](https://juejin.im/post/5a77211b6fb9a0635774d61a)
+- [杜帅 - 浅析 Typescript 设计模式](https://zhuanlan.zhihu.com/p/43283016)
 - [torokmark - design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript)
 
 ## TypeScript Videos
@@ -275,8 +269,8 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 ### Chinese
 
 - [慕课网 - TypeScript 入门](http://www.imooc.com/learn/763)
-- [智能社 - TypeScript - 2小时带你体验微软新坑](https://chuanke.baidu.com/v1021662-207581-1268007.html)
-- [cnode - 2018年最新Typescript视频教程](https://cnodejs.org/topic/5b4419df13ca2fe569fb924a)
+- [智能社 - TypeScript - 2 小时带你体验微软新坑](https://chuanke.baidu.com/v1021662-207581-1268007.html)
+- [cnode - 2018 年最新 Typescript 视频教程](https://cnodejs.org/topic/5b4419df13ca2fe569fb924a)
 
 ### English
 
@@ -293,23 +287,23 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 ## TypeScript QA
 
-- [Segmentfault - 为什么Angular2和Ionic2都用TypeScript开发，TypeScript有什么优势吗？](https://segmentfault.com/q/1010000004152645)
+- [Segmentfault - 为什么 Angular2 和 Ionic2 都用 TypeScript 开发，TypeScript 有什么优势吗？](https://segmentfault.com/q/1010000004152645)
 - [Zhihu - TypeScript 和 JavaScript 的区别？](https://www.zhihu.com/question/25421196)
 - [Zhihu - 如何评价 TypeScript？](https://www.zhihu.com/question/21879449)
 - [Zhihu - 现在 TypeScript 的生态如何？](https://www.zhihu.com/question/37222407)
-- [Zhihu - 关于Typescript和ES6的对比？](https://www.zhihu.com/question/59375764)
+- [Zhihu - 关于 Typescript 和 ES6 的对比？](https://www.zhihu.com/question/59375764)
 - [Zhihu - 为什么 TypeScript 成功了，更先进的 ActionScript 却失败了？](https://www.zhihu.com/question/49170215)
-- [Zhihu - Typescript有什么冷门但是很好用的特性？](https://www.zhihu.com/question/276172039/answer/385433602)
-- [Zhihu - TypeScript中的装饰器(Decorators)的本质是什么](https://www.zhihu.com/question/68257128/answer/261502855)
-- [Zhihu - 如何学习用Typescript写Reactjs?](https://www.zhihu.com/question/38838053/answer/78371116)
+- [Zhihu - Typescript 有什么冷门但是很好用的特性？](https://www.zhihu.com/question/276172039/answer/385433602)
+- [Zhihu - TypeScript 中的装饰器(Decorators)的本质是什么](https://www.zhihu.com/question/68257128/answer/261502855)
+- [Zhihu - 如何学习用 Typescript 写 Reactjs?](https://www.zhihu.com/question/38838053/answer/78371116)
 
 ## TypeScript Books
 
 ### Chinese
 
 - [Learning TypeScript (中文版)](https://amazon.cn/gp/product/B071Z65LLT/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B071Z65LLT&linkCode=as2&tag=semlinker-23&linkId=90e1e4c6c17c6b68e463654b727114de)
-- [TypeScript实战指南](https://amazon.cn/gp/product/B07WYWVC3Q/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07WYWVC3Q&linkCode=as2&tag=semlinker-23&linkId=9737c185dcd0d31547e4c32999dffb60)
-- [TypeScript图形渲染实战：2D架构设计与实现](https://amazon.cn/gp/product/B07PDL3MDX/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07PDL3MDX&linkCode=as2&tag=semlinker-23&linkId=f5618de108e9c829391e9f164e37ff11)
+- [TypeScript 实战指南](https://amazon.cn/gp/product/B07WYWVC3Q/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07WYWVC3Q&linkCode=as2&tag=semlinker-23&linkId=9737c185dcd0d31547e4c32999dffb60)
+- [TypeScript 图形渲染实战：2D 架构设计与实现](https://amazon.cn/gp/product/B07PDL3MDX/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B07PDL3MDX&linkCode=as2&tag=semlinker-23&linkId=f5618de108e9c829391e9f164e37ff11)
 - [迈向 Angular 2: 基于 TypeScript 的高性能 SPA 框架](https://amzn.to/37vb1ke)
 
 ### English
@@ -371,10 +365,10 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 ### Ioc
 
-* [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
-* [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
-* [Injex Framework](https://www.injex.dev)
-* [Injex Express Plugin](https://www.injex.dev/docs/plugins/express)
+- [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
+- [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
+- [Injex Framework](https://www.injex.dev)
+- [Injex Express Plugin](https://www.injex.dev/docs/plugins/express)
 
 ### Doc
 

@@ -4,20 +4,13 @@
 
 [TypeScript](https://www.typescriptlang.org/) 是一种由微软开发的自由和开源的编程语言。它是 JavaScript 的一个超集，而且本质上向这个语言添加了可选的静态类型和基于类的面向对象编程。
 
-> Awesome TypeScript 库灵感来源于 [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript)，感谢 [dzharii](https://github.com/dzharii)。
+<div align="center">
+<a href="https://shadcn.batchtool.com/?utm_source=github">
+<img src="./media/awesome-shadcn-ui.jpg" alt="og of awesome-shadcn-ui" height="100%" width="100%">
+</a>
+</div>
 
-本文的资源主要来源于以下网站：
-
-[![sf-favicon.ico](media/sf-favicon.ico)](https://segmentfault.com/) [![juejin-favicon](media/juejin-favicon.ico)](https://juejin.im/timeline) [![zhihu-favicon](media/zhihu-favicon.ico)](https://www.zhihu.com/explore) [![jianshu-favicon](media/jianshu-favicon.ico)](https://www.jianshu.com/) [![toutiao-favicon](media/toutiao-favicon.ico)](https://toutiao.io/) [![medium-favicon](media/medium-favicon.ico)](https://medium.com/)[![github-favicon](media/github-favicon.ico)](https://github.com/)
-
-[Chinese](https://github.com/semlinker/awesome-typescript/blob/master/README-zh.md) | [English](https://github.com/semlinker/awesome-typescript/blob/master/README.md)
-
-
-Welcome to the **Mastering TypeScript series**. This series will introduce the core knowledge and techniques of TypeScript **in the form of animations**. Let's learn together! Previous articles are as follows:
-- [What Are K, T, and V in TypeScript Generics?](https://medium.com/frontend-canteen/what-are-k-t-and-v-in-typescript-generics-9fabe1d0f0f3)
-- [Using TypeScript Mapped Types Like a Pro](https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a)
-- [Use TypeScript Conditional Types Like a Pro](https://javascript.plainenglish.io/use-typescript-conditional-types-like-a-pro-7baea0ad05c5)
-- [TypeScript Visualized: 15 Most Used Utility Types](https://javascript.plainenglish.io/15-utility-types-that-every-typescript-developer-should-know-6cf121d4047c)
+<h4><a href="https://github.com/bytefer/awesome-shadcn-ui">awesome-shadcn-ui</a></h4>
 
 ## 目录
 
