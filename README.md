@@ -340,6 +340,10 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
 
 ### Build
 
+#### Web API
+
+- [ts-audio](https://github.com/evandrolg/ts-audio)
+
 #### webpack
 
 - [s-panferov - awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader)
