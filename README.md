@@ -38,6 +38,7 @@ Welcome to the **Mastering TypeScript series**. This series will introduce the c
             - [Awesome](#awesome)
     - [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)
     - [TypeScript Design patterns](#typescript-design-patterns)
+    - [TypeScript Real World Design Patterns](https://github.com/vahidvdn/realworld-design-patterns)
     - [TypeScript Videos](#typescript-videos)
         - [Chinese](#chinese-1)
         - [English](#english-1)
