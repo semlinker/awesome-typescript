@@ -284,6 +284,7 @@
 - [youtube - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
 - [youtube - Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
 - [scrimba - Introduction to TypeScript](https://scrimba.com/g/gintrototypescript)
+- [Manning Publications - Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI)
 
 ## TypeScript QA
 
@@ -329,6 +330,8 @@
 - [TypeScript Design Patterns](https://amzn.to/2FbWkpY)
 - [TypeScript High Performance](https://amzn.to/2QAERNk)
 - [TypeScript Microservices](https://amzn.to/39ru7cx)
+- [TypeScript Quickly](https://www.manning.com/books/typescript-quickly)
+- [Essential TypeScript 5](https://www.manning.com/books/essential-typescript-5)
 
 ## TypeScript Tools/Libraries
 
