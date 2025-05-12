@@ -401,6 +401,10 @@
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
 
+### Tool
+
+- [JQLite](https://github.com/Jay-Karia/jqlite)
+
 ## TypeScript IDE
 
 ### Offline
