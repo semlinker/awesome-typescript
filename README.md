@@ -52,6 +52,8 @@
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Server](#server)
+    - [Blockchain](#blockchain)
+    - [Utility](#utility)
   - [TypeScript IDE](#typescript-ide)
     - [Offline](#offline)
       - [IDE/Plugins](#ideplugins)
@@ -396,6 +398,10 @@
   - [samchon - nestia](https://github.com/samchon/nestia)
 - [samchon - tgrid](https://github.com/samchon/tgrid)
 - [samchon - mutex-server](https://github.com/samchon/mutex-server)
+
+### Blockchain
+
+- [hashgraph-online - standards-sdk](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for building and interacting with decentralized AI agents on the Hedera network
 
 ### Utility
 
