@@ -400,6 +400,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [@taskade/temporal-parser](https://github.com/taskade/temporal-parser) - Lexer and parser for ISO 8601, RFC 3339, and IXDTF temporal expressions. Built with compiler design principles.
 
 ## TypeScript IDE
 
