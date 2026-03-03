@@ -76,19 +76,19 @@
 - [Vilicvane - TypeScript 2.5~2.6 新特性一览](https://zhuanlan.zhihu.com/p/30760290)
 - [黄子毅 - 精读<<TypeScript2.0 - 2.9>>](https://zhuanlan.zhihu.com/p/37374083)
 - [Linux 中国 - 一篇缺失的 TypeScript 介绍](https://zhuanlan.zhihu.com/p/28494162)
-- [单纯的土豆 - ES5, ES2015 和 TypeScript 的区别](http://www.jianshu.com/p/3c8c7713fa0e)
+- [单纯的土豆 - ES5, ES2015 和 TypeScript 的区别](https://www.jianshu.com/p/3c8c7713fa0e)
 - [三七二十 - TypeScript 的好处都有啥？和 JavaScript 的区别在哪？](https://zhuanlan.zhihu.com/p/38526585)
 - [Grain 先森 - 前端-TypeScript VS JavaScript 深度对比](https://www.jianshu.com/p/0dfbcd4a0757)
-- [贺贺 v5 - Angular2、Ionic、TypeScript、es6 的关系？](http://www.jianshu.com/p/27c026734b8d)
-- [极客学院 - 使用 TypeScript 提高开发能力](http://www.jianshu.com/p/066a6017db1b)
+- [贺贺 v5 - Angular2、Ionic、TypeScript、es6 的关系？](https://www.jianshu.com/p/27c026734b8d)
+- [极客学院 - 使用 TypeScript 提高开发能力](https://www.jianshu.com/p/066a6017db1b)
 - [Hevin - 为什么 Reddit 选择了 TypeScript？](https://zhuanlan.zhihu.com/p/27695708)
 - [JiaXinYi - Angular: 我们为什么选择 TypeScript](https://segmentfault.com/a/1190000010892897)
-- [Djcordhose - 对比 Flow 和 TypeScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
+- [Djcordhose - 对比 Flow 和 TypeScript](https://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
 - [Neal1991 - 采用 Flow 以及 TypeScript](https://github.com/neal1991/articles-translator/blob/master/%E9%87%87%E7%94%A8Flow%E4%BB%A5%E5%8F%8ATypeScript.md)
 - [柳佳 - Flow vs Typescript](https://zhuanlan.zhihu.com/p/27593029)
 - [SDK.cn - Slack 的 TypeScript 之路](https://sdk.cn/news/6789)
 - [RDDcoding - 熟悉全栈 TypeScript](https://segmentfault.com/a/1190000014414303)
-- [Lxxyx - TypeScript - 不止稳，而且快](http://www.lxxyx.win/2017/07/23/2017/ts-accerlate/)
+- [Lxxyx - TypeScript - 不止稳，而且快](https://www.lxxyx.win/2017/07/23/2017/ts-accerlate/)
 - [Zhangwang - TypeScript - 一种思维方式](https://zhuanlan.zhihu.com/p/63346965)
 - [Lienviws - TypeScript 安利指南](https://juejin.im/post/5d8efeace51d45782b0c1bd6)
 
@@ -97,9 +97,9 @@
 #### Beginner
 
 - [Xcatliu - TypeScript 入门教程](https://ts.xcatliu.com/)
-- [Taobaofed - 认识 TypeScript](http://taobaofed.org/blog/2017/03/09/head-first-typescript/)
-- [Shangpudxd - TypeScript 入门](http://www.jianshu.com/p/4e7094d62b34)
-- [Muyunyun - 从 JavaScript 到 TypeScript](http://muyunyun.cn/posts/66a54fc2/)
+- [Taobaofed - 认识 TypeScript](https://taobaofed.org/blog/2017/03/09/head-first-typescript/)
+- [Shangpudxd - TypeScript 入门](https://www.jianshu.com/p/4e7094d62b34)
+- [Muyunyun - 从 JavaScript 到 TypeScript](https://muyunyun.cn/posts/66a54fc2/)
 - [Gukson - Typescript 基础入门](https://www.jianshu.com/p/103933b7c2b4)
 - [oWSQo - TypeScript 入门](https://www.jianshu.com/p/c4e639296b98)
 - [Semlinker - TypeScript 简介及编码规范](https://semlinker.com/ts-intro-and-guide/)
@@ -122,7 +122,7 @@
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
 - [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
 - [三毛 - 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-- [Poetry - Typescript 实践总结[基础+工程+实践]](http://blog.poetries.top/2019/09/03/ts-in-action/)
+- [Poetry - Typescript 实践总结[基础+工程+实践]](https://blog.poetries.top/2019/09/03/ts-in-action/)
 - [Shanyue - TypeScript 高级技巧](https://juejin.im/post/5cffb431f265da1b7401f466)
 
 #### Practical
@@ -200,7 +200,7 @@
 #### Tutorials
 
 - [Microsoft - TypeScript-Handbook](https://github.com/Microsoft/TypeScript-Handbook)
-- [Microsoft - TypeScript Team Blog](http://blogs.msdn.com/b/typescript/)
+- [Microsoft - TypeScript Team Blog](https://blogs.msdn.com/b/typescript/)
 - [TypeStrong - Learn TypeScript](https://github.com/TypeStrong/learn-typescript)
 - [Indrek Lasn - TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 - [Indrek Lasn - TypeScript — JavaScript with superpowers II](https://hackernoon.com/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842)
@@ -209,7 +209,7 @@
 - [Victor Savkin - Functional TypeScript](https://vsavkin.com/functional-typescript-316f0e003dc6)
 - [Netanel Basal - Using TypeScript Dynamic Imports in Angular](https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd)
 - [Elena Sufieva - Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
-- [Wolksoftware - Decorators Reflection JavaScript TypeScript](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
+- [Wolksoftware - Decorators Reflection JavaScript TypeScript](https://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
 - [Luis Aviles - Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 - [Jonny Fox - WebSocket + Node.js + Express — Step by step tutorial using Typescript](https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4)
 - [Trey Huffine - TypeScript and React using create-react-app: A step-by-step guide to setting up your first app](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
@@ -268,7 +268,7 @@
 
 ### Chinese
 
-- [慕课网 - TypeScript 入门](http://www.imooc.com/learn/763)
+- [慕课网 - TypeScript 入门](https://www.imooc.com/learn/763)
 - [智能社 - TypeScript - 2 小时带你体验微软新坑](https://chuanke.baidu.com/v1021662-207581-1268007.html)
 - [cnode - 2018 年最新 Typescript 视频教程](https://cnodejs.org/topic/5b4419df13ca2fe569fb924a)
 
@@ -414,19 +414,19 @@
 - [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
 - [Atom TypeScript](https://github.com/TypeStrong/atom-typescript)
 - [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide)
-- [TypeScript IDE for Eclipse](http://typecsdev.com/)
+- [TypeScript IDE for Eclipse](https://typecsdev.com/)
 - [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
 
 ### Online
 
 #### Playground
 
-- [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
+- [TypeScript official Playground](https://www.typescriptlang.org/Playground/)
 - [Stackblitz](https://stackblitz.com/)
-- [JS Bin](http://jsbin.com/?js)
-- [Codepen](http://codepen.io/)
-- [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/)
-- [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/)
+- [JS Bin](https://jsbin.com/?js)
+- [Codepen](https://codepen.io/)
+- [TypeScript Editor](https://drake7707.github.io/Typescript-Editor/)
+- [TypeScript Interpret - Terminal Emulator](https://niutech.github.io/typescript-interpret/)
 - [TypeScript Play](https://agentcooper.github.io/typescript-play/)
 
 #### Chrome Extension
