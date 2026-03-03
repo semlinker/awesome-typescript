@@ -354,14 +354,18 @@
 #### compiler
 
 - [TypeStrong - ts-node](https://github.com/TypeStrong/ts-node)
+- [TypeStrong - tsx](https://github.com/privatenumber/tsx) - Node.js enhanced with native TypeScript support.
+- [egoist - tsup](https://github.com/egoist/tsup) - Zero-config TypeScript bundler powered by esbuild.
+- [unbuild](https://github.com/unjs/unbuild) - Unified JavaScript build system.
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
 
 #### linter
 
-- [palantir - tslint](https://github.com/palantir/tslint)
-- [ESLint](https://eslint.org/)
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - Monorepo for all the tooling which enables ESLint and Prettier to support TypeScript.
+- [oxc](https://github.com/oxc-project/oxc) - The OXidation Linter for JavaScript and TypeScript.
+- [tslint (deprecated)](https://github.com/palantir/tslint) - TSLint is a linter equivalent to ESLint that can directly check TypeScript code. (deprecated - use typescript-eslint instead)
 
 ### Ioc
 
@@ -383,6 +387,7 @@
 
 ### Database
 
+- [Prisma](https://github.com/prisma/prisma) - Next-generation ORM for TypeScript and Node.js.
 - [Typeorm - typeorm](https://github.com/typeorm/typeorm)
   - [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
@@ -396,10 +401,20 @@
   - [samchon - nestia](https://github.com/samchon/nestia)
 - [samchon - tgrid](https://github.com/samchon/tgrid)
 - [samchon - mutex-server](https://github.com/samchon/mutex-server)
+- [trpc](https://github.com/trpc/trpc) - Type-safe APIs for TypeScript. Build fully type-safe APIs without code generation.
 
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types.
+- [ts-pattern](https://github.com/gvergnaud/ts-pattern) - Pattern matching for TypeScript with expressive types.
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+- [valibot](https://github.com/fabian-hiller/valibot) - A lightweight schema validation library with a tiny bundle size.
+- [arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized for size and speed.
+- [runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types in TypeScript.
+- [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding.
+- [tsx](https://github.com/privatenumber/tsx) - Node.js enhanced with native TypeScript support.
+- [TanStack Query](https://github.com/TanStack/query) - Powerful asynchronous state management for TypeScript.
 
 ## TypeScript IDE
 
@@ -407,12 +422,12 @@
 
 #### IDE/Plugins
 
-- [Visual Studio Community](https://visualstudio.microsoft.com/zh-hans/vs/community/)
-- [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
 - [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
-- [Atom TypeScript](https://github.com/TypeStrong/atom-typescript)
+- [Atom TypeScript (deprecated)](https://github.com/TypeStrong/atom-typescript) - Atom has been discontinued.
 - [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide)
 - [TypeScript IDE for Eclipse](https://typecsdev.com/)
 - [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
@@ -421,8 +436,9 @@
 
 #### Playground
 
-- [TypeScript official Playground](https://www.typescriptlang.org/Playground/)
+- [TypeScript official Playground](https://www.typescriptlang.org/playground/)
 - [Stackblitz](https://stackblitz.com/)
+- [CodeSandbox](https://codesandbox.io/)
 - [JS Bin](https://jsbin.com/?js)
 - [Codepen](https://codepen.io/)
 - [TypeScript Editor](https://drake7707.github.io/Typescript-Editor/)
