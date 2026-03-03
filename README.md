@@ -365,7 +365,6 @@
 
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - Monorepo for all the tooling which enables ESLint and Prettier to support TypeScript.
 - [oxc](https://github.com/oxc-project/oxc) - The OXidation Linter for JavaScript and TypeScript.
-- [tslint (deprecated)](https://github.com/palantir/tslint) - TSLint is a linter equivalent to ESLint that can directly check TypeScript code. (deprecated - use typescript-eslint instead)
 
 ### Ioc
 
@@ -427,7 +426,6 @@
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
 - [TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
-- [Atom TypeScript (deprecated)](https://github.com/TypeStrong/atom-typescript) - Atom has been discontinued.
 - [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide)
 - [TypeScript IDE for Eclipse](https://typecsdev.com/)
 - [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
@@ -448,6 +446,18 @@
 #### Chrome Extension
 
 - [OctoLinker](https://github.com/OctoLinker/browser-extension)
+
+## Deprecated
+
+These projects are no longer maintained or have been superseded by better alternatives.
+
+### Linter
+
+- [tslint](https://github.com/palantir/tslint) - TSLint is a linter equivalent to ESLint that can directly check TypeScript code. (Use typescript-eslint instead)
+
+### IDE/Plugins
+
+- [Atom TypeScript](https://github.com/TypeStrong/atom-typescript) - Atom has been discontinued.
 
 ## Contributing
 
