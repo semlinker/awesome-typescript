@@ -67,7 +67,7 @@
 
 ### Features
 
-- [蚂蚁金服数据体验技术团队 - TypeScript 体系调研报告](https://juejin.im/post/59c46bc86fb9a00a4636f939)
+- [蚂蚁金服数据体验技术团队 - TypeScript 体系调研报告](https://juejin.cn/post/59c46bc86fb9a00a4636f939)
 - [Vilicvane - TypeScript 2.0 新特性一览](https://zhuanlan.zhihu.com/p/21629069)
 - [Vilicvane - TypeScript 2.1 新特性一览](https://zhuanlan.zhihu.com/p/24267683)
 - [Vilicvane - TypeScript 2.2 新特性一览](https://zhuanlan.zhihu.com/p/25579011)
@@ -76,11 +76,7 @@
 - [Vilicvane - TypeScript 2.5~2.6 新特性一览](https://zhuanlan.zhihu.com/p/30760290)
 - [黄子毅 - 精读<<TypeScript2.0 - 2.9>>](https://zhuanlan.zhihu.com/p/37374083)
 - [Linux 中国 - 一篇缺失的 TypeScript 介绍](https://zhuanlan.zhihu.com/p/28494162)
-- [单纯的土豆 - ES5, ES2015 和 TypeScript 的区别](https://www.jianshu.com/p/3c8c7713fa0e)
-- [三七二十 - TypeScript 的好处都有啥？和 JavaScript 的区别在哪？](https://zhuanlan.zhihu.com/p/38526585)
-- [Grain 先森 - 前端-TypeScript VS JavaScript 深度对比](https://www.jianshu.com/p/0dfbcd4a0757)
-- [贺贺 v5 - Angular2、Ionic、TypeScript、es6 的关系？](https://www.jianshu.com/p/27c026734b8d)
-- [极客学院 - 使用 TypeScript 提高开发能力](https://www.jianshu.com/p/066a6017db1b)
+
 - [Hevin - 为什么 Reddit 选择了 TypeScript？](https://zhuanlan.zhihu.com/p/27695708)
 - [JiaXinYi - Angular: 我们为什么选择 TypeScript](https://segmentfault.com/a/1190000010892897)
 - [Djcordhose - 对比 Flow 和 TypeScript](https://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
@@ -90,7 +86,7 @@
 - [RDDcoding - 熟悉全栈 TypeScript](https://segmentfault.com/a/1190000014414303)
 - [Lxxyx - TypeScript - 不止稳，而且快](https://www.lxxyx.win/2017/07/23/2017/ts-accerlate/)
 - [Zhangwang - TypeScript - 一种思维方式](https://zhuanlan.zhihu.com/p/63346965)
-- [Lienviws - TypeScript 安利指南](https://juejin.im/post/5d8efeace51d45782b0c1bd6)
+- [Lienviws - TypeScript 安利指南](https://juejin.cn/post/5d8efeace51d45782b0c1bd6)
 
 ### Chinese
 
@@ -98,12 +94,9 @@
 
 - [Xcatliu - TypeScript 入门教程](https://ts.xcatliu.com/)
 - [Taobaofed - 认识 TypeScript](https://taobaofed.org/blog/2017/03/09/head-first-typescript/)
-- [Shangpudxd - TypeScript 入门](https://www.jianshu.com/p/4e7094d62b34)
 - [Muyunyun - 从 JavaScript 到 TypeScript](https://muyunyun.cn/posts/66a54fc2/)
-- [Gukson - Typescript 基础入门](https://www.jianshu.com/p/103933b7c2b4)
-- [oWSQo - TypeScript 入门](https://www.jianshu.com/p/c4e639296b98)
 - [Semlinker - TypeScript 简介及编码规范](https://semlinker.com/ts-intro-and-guide/)
-- [技术胖 - TypeScript 图文视频教程](https://juejin.im/post/5ba43b38f265da0aef4e0bc6)
+- [技术胖 - TypeScript 图文视频教程](https://juejin.cn/post/5ba43b38f265da0aef4e0bc6)
 
 #### Advanced
 
@@ -120,17 +113,17 @@
 - [Square - Typescript 类型高级技巧，和强约束 bind 的实现](https://zhuanlan.zhihu.com/p/38789971)
 - [腾讯 NEXT 学位 - 深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
 - [newraina - 手把手教写 TypeScript Transformer Plugin](https://zhuanlan.zhihu.com/p/30360931)
-- [EER - TypeScript 重构 Axios 经验分享](https://juejin.im/post/5bf7f1c0e51d455ed74f625c)
+- [EER - TypeScript 重构 Axios 经验分享](https://juejin.cn/post/5bf7f1c0e51d455ed74f625c)
 - [三毛 - 深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [Poetry - Typescript 实践总结[基础+工程+实践]](https://blog.poetries.top/2019/09/03/ts-in-action/)
-- [Shanyue - TypeScript 高级技巧](https://juejin.im/post/5cffb431f265da1b7401f466)
+- [Shanyue - TypeScript 高级技巧](https://juejin.cn/post/5cffb431f265da1b7401f466)
 
 #### Practical
 
 **Angular**
 
 - [Yanxiaodi - Ionic 2 With TypeScript](https://www.gitbook.com/book/yanxiaodi/ionic2-guide/details)
-- [Cacivy - Angular 2 + TypeScript 实现的 Cnode 社区](https://juejin.im/entry/5811c2cba22b9d00639f69f5)
+- [Cacivy - Angular 2 + TypeScript 实现的 Cnode 社区](https://juejin.cn/entry/5811c2cba22b9d00639f69f5)
 
 **Vue**
 
@@ -141,25 +134,25 @@
 - [LinkFly - 从 JavaScript 到 TypeScript 6 - Vue 引入 TypeScript](https://segmentfault.com/a/1190000011520912)
 - [SimonZhanglTer - 可能是最全的 Vue-TypeScript 教程(附实例代码和一键构建工具)](https://segmentfault.com/a/1190000012486378)
 - [三命 - vue + typescript 进阶篇](https://segmentfault.com/a/1190000011878086)
-- [qiangdada - TypeScript + 大型项目实战](https://juejin.im/post/5b54886ce51d45198f5c75d7)
+- [qiangdada - TypeScript + 大型项目实战](https://juejin.cn/post/5b54886ce51d45198f5c75d7)
 - [距离 - Vue 全家桶+TypeScript 使用总结](https://segmentfault.com/a/1190000013462418)
 - [海蓝 2018 - vue 全家桶+Typescript 开发一款习惯养成 APP](https://segmentfault.com/a/1190000014884801)
-- [Treri - 使用 FIS3 和 TypeScript 实现 vue-hackernews-2.0](https://juejin.im/entry/58d8d603b123db199f4639a3)
-- [🍼holyZhengs - 记录一次基于 vue、typescript、pwa 的项目由开发到部署](https://juejin.im/post/5ba3d205e51d450e8477af33)
+- [Treri - 使用 FIS3 和 TypeScript 实现 vue-hackernews-2.0](https://juejin.cn/entry/58d8d603b123db199f4639a3)
+- [🍼holyZhengs - 记录一次基于 vue、typescript、pwa 的项目由开发到部署](https://juejin.cn/post/5ba3d205e51d450e8477af33)
 - [大转转 FE - 原有 vue 项目接入 typescript](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484478&idx=1&sn=a1222cc6d327fe80690b71e4398a27a2&chksm=fbb58ff7ccc206e12b5e2d57fb7cf84f8fe31dce3213e9b2c9ea00d5555873ddbb68ff2fde84&token=1712114111&lang=zh_CN&rd2werd=1#wechat_redirect)
-- [MartinYin - 使用 typescript+vue 编写电影信息小项目！](https://juejin.im/post/5bc2fd06e51d450e7903c783)
+- [MartinYin - 使用 typescript+vue 编写电影信息小项目！](https://juejin.cn/post/5bc2fd06e51d450e7903c783)
 - [三毛 - 在 Vue 中使用 TypeScript 的一些思考（实践）](https://jkchao.cn/article/5b3d3bbef9d34142a117b184)
 
 **React**
 
-- [fi3ework - 基于 React + TypeScript 的网易云音乐](https://juejin.im/post/5b715796e51d4566334ca28c)
-- [iKcamp - 翻译 | 开始使用 TypeScript 和 React](https://juejin.im/post/595cc34ff265da6c3d6c262b)
+- [fi3ework - 基于 React + TypeScript 的网易云音乐](https://juejin.cn/post/5b715796e51d4566334ca28c)
+- [iKcamp - 翻译 | 开始使用 TypeScript 和 React](https://juejin.cn/post/595cc34ff265da6c3d6c262b)
 - [贾顺名 - TypeScript 在 react 项目中的实践](https://segmentfault.com/a/1190000016163937)
-- [花生毛豆 - TypeScript 在 React 中使用总结](https://juejin.im/post/5bab4d59f265da0aec22629b)
+- [花生毛豆 - TypeScript 在 React 中使用总结](https://juejin.cn/post/5bab4d59f265da0aec22629b)
 - [icepy - 复杂 React 应用中的 TypeScript 3.0 实践](https://zhuanlan.zhihu.com/p/42141179)
-- [蚂蚁金服数据体验技术团队 - TypeScript 实践](https://juejin.im/post/5a9c004a6fb9a028b92c9e91)
-- [蚂蚁金服数据体验技术团队 - TypeScript 2.8 下的终极 React 组件模式](https://juejin.im/post/5b07caf16fb9a07aa83f2977)
-- [YDJFE - 一次 TypeScript, React, Node, MongoDB 的模板式前后端分离开发实践](https://juejin.im/post/5b89e47f51882542c062651f)
+- [蚂蚁金服数据体验技术团队 - TypeScript 实践](https://juejin.cn/post/5a9c004a6fb9a028b92c9e91)
+- [蚂蚁金服数据体验技术团队 - TypeScript 2.8 下的终极 React 组件模式](https://juejin.cn/post/5b07caf16fb9a07aa83f2977)
+- [YDJFE - 一次 TypeScript, React, Node, MongoDB 的模板式前后端分离开发实践](https://juejin.cn/post/5b89e47f51882542c062651f)
 
 **React Native**
 
@@ -171,7 +164,6 @@
 
 **Node.js**
 
-- [MarxJiao - 使用 webpack 搭建基于 typescript 的 node 开发环境](https://www.jianshu.com/p/6aab86403dc1)
 - [天猪 - 当 Egg 遇到 TypeScript，收获茶叶蛋一枚](https://zhuanlan.zhihu.com/p/35334932)
 - [奇舞团 - ThinkJS 3.0 如何实现对 TypeScript 的支持](https://75team.com/post/thinkjs-3.0-with-typescript.html)
 - [贾顺名 - TypeScript 在 node 项目中的实践](https://segmentfault.com/a/1190000015719697)
@@ -256,11 +248,11 @@
 
 ## TypeScript Design patterns
 
-- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 创建型模式](https://juejin.im/post/59fa88ac5188255a6a0d5f31)
-- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 结构型模式（上）](https://juejin.im/post/5a2d16325188252da0535d73)
-- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 结构型模式（下）](https://juejin.im/post/5a51da10f265da3e347b1483)
-- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 对象行为型模式（上）](https://juejin.im/post/5a6dd4dd51882573385ffa8e)
-- [蚂蚁金服数据体验技术团队 -Typescript 玩转设计模式 之 对象行为型模式（下）](https://juejin.im/post/5a77211b6fb9a0635774d61a)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 创建型模式](https://juejin.cn/post/59fa88ac5188255a6a0d5f31)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 结构型模式（上）](https://juejin.cn/post/5a2d16325188252da0535d73)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 结构型模式（下）](https://juejin.cn/post/5a51da10f265da3e347b1483)
+- [蚂蚁金服数据体验技术团队 - Typescript 玩转设计模式 之 对象行为型模式（上）](https://juejin.cn/post/5a6dd4dd51882573385ffa8e)
+- [蚂蚁金服数据体验技术团队 -Typescript 玩转设计模式 之 对象行为型模式（下）](https://juejin.cn/post/5a77211b6fb9a0635774d61a)
 - [杜帅 - 浅析 Typescript 设计模式](https://zhuanlan.zhihu.com/p/43283016)
 - [torokmark - design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript)
 
@@ -413,6 +405,8 @@
 - [runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types in TypeScript.
 - [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding.
 - [TanStack Query](https://github.com/TanStack/query) - Powerful asynchronous state management for TypeScript.
+- [deepkit](https://github.com/deepkit/deepkit) - A full-stack TypeScript framework.
+- [effect](https://github.com/Effect-TS/effect) - A fully-fledged functional programming library.
 
 ## TypeScript IDE
 
