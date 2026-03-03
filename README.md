@@ -412,7 +412,6 @@
 - [arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized for size and speed.
 - [runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types in TypeScript.
 - [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding.
-- [tsx](https://github.com/privatenumber/tsx) - Node.js enhanced with native TypeScript support.
 - [TanStack Query](https://github.com/TanStack/query) - Powerful asynchronous state management for TypeScript.
 
 ## TypeScript IDE
