@@ -222,7 +222,6 @@
 - [chsakell - aspnet5-angular2-typescript](https://github.com/chsakell/aspnet5-angular2-typescript)
 - [Lemoncode - react-typescript-samples](https://github.com/Lemoncode/react-typescript-samples)
 - [jaysoo - todomvc-redux-react-typescript](https://github.com/jaysoo/todomvc-redux-react-typescript)
-- [rangle - typescript-react-redux-example](https://github.com/rangle/typescript-react-redux-example)
 - [luixaviles - socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat)
 - [dwyl - hapi-typescript-example](https://github.com/dwyl/hapi-typescript-example)
 
@@ -245,7 +244,6 @@
 - [Microsoft - TypeScript-React-Native-Starter](https://github.com/Microsoft/TypeScript-React-Native-Starter)
 - [Microsoft - TypeScript-WeChat-Starter](https://github.com/Microsoft/TypeScript-WeChat-Starter)
 - [Microsoft - TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter)
-- [Microsoft - TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [wmonk - create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript)
 - [rokoroku - react-redux-typescript-boilerplate](https://github.com/rokoroku/react-redux-typescript-boilerplate)
 - [bitjson - typescript-starter](https://github.com/bitjson/typescript-starter)
