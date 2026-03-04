@@ -444,3 +444,27 @@ We welcome your contributions 🌺
 3. If you feel that some items are in the wrong section or you need to add a new section, please feel free to edit.
 
 **[⬆ Go To Top](#contents)**
+
+---
+
+## Built by Zovo
+
+This is part of the [Zovo](https://zovo.one) developer tools family. Zovo builds privacy-first Chrome extensions for developers.
+
+### Related Zovo Repositories
+
+- [zovo-extension-template](https://github.com/theluckystrike/zovo-extension-template) - Privacy-first Chrome extension template
+- [zovo-types-webext](https://github.com/theluckystrike/zovo-types-webext) - TypeScript definitions for browser extensions
+- [chrome-storage-plus](https://github.com/theluckystrike/chrome-storage-plus) - Type-safe storage wrapper
+
+### Zovo Chrome Extensions
+
+- [Zovo Tab Manager](https://chrome.google.com/webstore/detail/zovo-tab-manager) - Manage tabs efficiently
+- [Zovo Focus](https://chrome.google.com/webstore/detail/zovo-focus) - Block distractions
+- [Zovo Permissions Scanner](https://chrome.google.com/webstore/detail/zovo-permissions-scanner) - Check extension privacy grades
+
+Visit [zovo.one](https://zovo.one) for more information.
+
+---
+
+*Built by [Zovo](https://zovo.one)*
