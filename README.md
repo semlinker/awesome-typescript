@@ -86,8 +86,6 @@
 - [Djcordhose - 对比 Flow 和 TypeScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
 - [Neal1991 - 采用 Flow 以及 TypeScript](https://github.com/neal1991/articles-translator/blob/master/%E9%87%87%E7%94%A8Flow%E4%BB%A5%E5%8F%8ATypeScript.md)
 - [柳佳 - Flow vs Typescript](https://zhuanlan.zhihu.com/p/27593029)
-- [SDK.cn - Slack 的 TypeScript 之路](https://sdk.cn/news/6789)
-- [RDDcoding - 熟悉全栈 TypeScript](https://segmentfault.com/a/1190000014414303)
 - [Lxxyx - TypeScript - 不止稳，而且快](http://www.lxxyx.win/2017/07/23/2017/ts-accerlate/)
 - [Zhangwang - TypeScript - 一种思维方式](https://zhuanlan.zhihu.com/p/63346965)
 - [Lienviws - TypeScript 安利指南](https://juejin.im/post/5d8efeace51d45782b0c1bd6)
@@ -147,12 +145,10 @@
 - [Treri - 使用 FIS3 和 TypeScript 实现 vue-hackernews-2.0](https://juejin.im/entry/58d8d603b123db199f4639a3)
 - [🍼holyZhengs - 记录一次基于 vue、typescript、pwa 的项目由开发到部署](https://juejin.im/post/5ba3d205e51d450e8477af33)
 - [大转转 FE - 原有 vue 项目接入 typescript](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484478&idx=1&sn=a1222cc6d327fe80690b71e4398a27a2&chksm=fbb58ff7ccc206e12b5e2d57fb7cf84f8fe31dce3213e9b2c9ea00d5555873ddbb68ff2fde84&token=1712114111&lang=zh_CN&rd2werd=1#wechat_redirect)
-- [MartinYin - 使用 typescript+vue 编写电影信息小项目！](https://juejin.im/post/5bc2fd06e51d450e7903c783)
 - [三毛 - 在 Vue 中使用 TypeScript 的一些思考（实践）](https://jkchao.cn/article/5b3d3bbef9d34142a117b184)
 
 **React**
 
-- [fi3ework - 基于 React + TypeScript 的网易云音乐](https://juejin.im/post/5b715796e51d4566334ca28c)
 - [iKcamp - 翻译 | 开始使用 TypeScript 和 React](https://juejin.im/post/595cc34ff265da6c3d6c262b)
 - [贾顺名 - TypeScript 在 react 项目中的实践](https://segmentfault.com/a/1190000016163937)
 - [花生毛豆 - TypeScript 在 React 中使用总结](https://juejin.im/post/5bab4d59f265da0aec22629b)
@@ -167,7 +163,6 @@
 
 **Wechat**
 
-- [Guyoung - 使用 TypeScript 开发微信小程序](https://segmentfault.com/a/1190000008175944)
 
 **Node.js**
 
@@ -222,7 +217,6 @@
 - [chsakell - aspnet5-angular2-typescript](https://github.com/chsakell/aspnet5-angular2-typescript)
 - [Lemoncode - react-typescript-samples](https://github.com/Lemoncode/react-typescript-samples)
 - [jaysoo - todomvc-redux-react-typescript](https://github.com/jaysoo/todomvc-redux-react-typescript)
-- [rangle - typescript-react-redux-example](https://github.com/rangle/typescript-react-redux-example)
 - [luixaviles - socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat)
 - [dwyl - hapi-typescript-example](https://github.com/dwyl/hapi-typescript-example)
 
@@ -245,7 +239,6 @@
 - [Microsoft - TypeScript-React-Native-Starter](https://github.com/Microsoft/TypeScript-React-Native-Starter)
 - [Microsoft - TypeScript-WeChat-Starter](https://github.com/Microsoft/TypeScript-WeChat-Starter)
 - [Microsoft - TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter)
-- [Microsoft - TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter)
 - [wmonk - create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript)
 - [rokoroku - react-redux-typescript-boilerplate](https://github.com/rokoroku/react-redux-typescript-boilerplate)
 - [bitjson - typescript-starter](https://github.com/bitjson/typescript-starter)
@@ -283,7 +276,6 @@
 - [udemy - TypeScript: Learn the Basics in a Refreshing Way](https://www.udemy.com/typescript-hero/)
 - [youtube - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
 - [youtube - Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo)
-- [scrimba - Introduction to TypeScript](https://scrimba.com/g/gintrototypescript)
 
 ## TypeScript QA
 
