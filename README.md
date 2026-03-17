@@ -364,6 +364,7 @@
 - [palantir - tslint](https://github.com/palantir/tslint)
 - [ESLint](https://eslint.org/)
 - [Open Code Review](https://github.com/raye-deng/open-code-review) - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
+- [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime for orchestrating AI agent teams. Coordinates Claude Code, OpenCode (Codex/Gemini), Cursor, and shell scripts as a typed team with state machine, auto-retry, inter-agent messaging, and TUI dashboard. 1647 tests, MIT.
 
 ### Ioc
 
