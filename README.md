@@ -12,6 +12,7 @@
 
 <h4><a href="https://github.com/bytefer/awesome-shadcn-ui">awesome-shadcn-ui</a></h4>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for TypeScript development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 <!-- TOC -->
