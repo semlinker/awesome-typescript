@@ -403,6 +403,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [AuditZap](https://auditzap.io/) - AI-powered website audit tool built with TypeScript, Next.js 16, Drizzle ORM, and BullMQ. Runs 24 checks across SEO, performance, and site health with AI fix instructions.
 
 ## TypeScript IDE
 
