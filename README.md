@@ -52,6 +52,7 @@
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Server](#server)
+    - [Utility](#utility)
   - [TypeScript IDE](#typescript-ide)
     - [Offline](#offline)
       - [IDE/Plugins](#ideplugins)
