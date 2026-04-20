@@ -331,6 +331,7 @@
 - [TypeScript Design Patterns](https://amzn.to/2FbWkpY)
 - [TypeScript High Performance](https://amzn.to/2QAERNk)
 - [TypeScript Microservices](https://amzn.to/39ru7cx)
+- [Acing the Frontend Interview](https://www.manning.com/books/acing-the-frontend-interview)
 
 ## TypeScript Tools/Libraries
 
