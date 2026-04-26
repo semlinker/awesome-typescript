@@ -403,6 +403,9 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [Edsoncame - tipo-cambio-peru](https://github.com/Edsoncame/tipo-cambio-peru) — Zero-dependency TypeScript client for Peru's official exchange rate APIs (BCRP, SBS, SUNAT).
+- [Edsoncame - dni-validator-peru](https://github.com/Edsoncame/dni-validator-peru) — Offline DNI/RUC document validator for Peru using the official módulo-11 algorithm.
+- [Edsoncame - feriados-peru](https://github.com/Edsoncame/feriados-peru) — National holidays calendar for Peru with business-day utilities (Easter via Butcher algorithm).
 
 ## TypeScript IDE
 
