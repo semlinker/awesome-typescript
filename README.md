@@ -390,6 +390,8 @@
   - [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)
+- [DynamoDB-Toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox)
+- [Castore](https://github.com/castore-dev/castore)
 
 ### Server
 
@@ -403,6 +405,8 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [Onion.JS](https://github.com/ThomasAribart/onion.js)
+- [json-schema-to-ts](https://github.com/thomasaribart/json-schema-to-ts)
 
 ## TypeScript IDE
 
