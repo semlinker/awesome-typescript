@@ -359,6 +359,7 @@
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
+- [SolvoHQ - jsontosdk](https://github.com/SolvoHQ/jsontosdk) - Paste a JSON sample, get a typed TypeScript interface + Zod schema with LLM-named types. No signup. Live demo at [jsontosdk.vercel.app](https://jsontosdk.vercel.app).
 
 #### linter
 
