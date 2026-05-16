@@ -4,13 +4,13 @@
 
 [TypeScript](https://www.typescriptlang.org/) is a free and open source programming language developed by Microsoft. It is a superset of JavaScript and essentially adds optional static typing and class-based object-oriented programming to the language.
 
+<h4><a href="https://www.bestalternative.dev/en?utm_source=github">Find the best open-source alternatives to popular software.</a></h4>
+
 <div align="center">
-<a href="https://shadcn.batchtool.com/?utm_source=github">
-<img src="./media/awesome-shadcn-ui.jpg" alt="og of awesome-shadcn-ui" height="100%" width="100%">
+<a href="https://www.bestalternative.dev/en?utm_source=github">
+<img src="./media/bestalternative.png" alt="og of bestalternative" height="100%" width="100%">
 </a>
 </div>
-
-<h4><a href="https://github.com/bytefer/awesome-shadcn-ui">awesome-shadcn-ui</a></h4>
 
 ## Contents
 
