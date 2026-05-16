@@ -366,6 +366,10 @@
 - [ESLint](https://eslint.org/)
 - [Open Code Review](https://github.com/raye-deng/open-code-review) - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
 
+#### config management
+
+- [presetter](https://github.com/alvis/presetter)
+
 ### Ioc
 
 - [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
