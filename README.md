@@ -359,6 +359,7 @@
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
+- [SolvoHQ - json-to-ts](https://github.com/SolvoHQ/json-to-ts) - Browser-based JSON-sample to TypeScript interface/type converter. Live demo: https://json-to-ts-app.netlify.app
 
 #### linter
 
