@@ -403,6 +403,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [Voightxyz - voight-sdk](https://github.com/Voightxyz/voight-sdk) - Real-time LLM observability. Drop-in wrappers for OpenAI, Anthropic, Vercel AI SDK + hooks for Claude Code and Cursor capture prompts, tokens, tool calls, cost, latency, and errors.
 
 ## TypeScript IDE
 
