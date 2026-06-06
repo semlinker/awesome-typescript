@@ -399,6 +399,7 @@
   - [samchon - nestia](https://github.com/samchon/nestia)
 - [samchon - tgrid](https://github.com/samchon/tgrid)
 - [samchon - mutex-server](https://github.com/samchon/mutex-server)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification MCP server for AI agents on Solana. TypeScript SDK compatible (`@modelcontextprotocol/sdk`).
 
 ### Utility
 
