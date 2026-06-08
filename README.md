@@ -368,6 +368,7 @@
 
 ### Ioc
 
+- [InferDI](https://github.com/inferdi/inferdi) - Type-safe, decorator-free dependency injection container for modern TypeScript with framework adapters.
 - [Inversify - InversifyJS](https://github.com/inversify/InversifyJS)
 - [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
 - [Injex Framework](https://www.injex.dev)
