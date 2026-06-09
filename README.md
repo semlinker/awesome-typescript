@@ -365,6 +365,7 @@
 - [palantir - tslint](https://github.com/palantir/tslint)
 - [ESLint](https://eslint.org/)
 - [Open Code Review](https://github.com/raye-deng/open-code-review) - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
+- [grugbot420](https://github.com/grug-group420/grugbot420) - AI-powered CLI assistant with zero dependencies. Built with TypeScript/Bun.js following grug-brained philosophy.
 
 ### Ioc
 
