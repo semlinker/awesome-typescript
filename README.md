@@ -365,6 +365,7 @@
 - [palantir - tslint](https://github.com/palantir/tslint)
 - [ESLint](https://eslint.org/)
 - [Open Code Review](https://github.com/raye-deng/open-code-review) - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
+- [nestjs-doctor](https://github.com/RoloBits/nestjs-doctor) - Static analysis and diagnostics for NestJS projects with 30+ lint rules, health scores, module graph visualization, and endpoint dependency graphs. CLI + VS Code extension.
 
 ### Ioc
 
