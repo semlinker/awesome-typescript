@@ -404,6 +404,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [Base Decorators](https://github.com/NeoLabHQ/base-decorators) - Basic decorator primitives for TypeScript. Writing decorators in TS is hard, this tiny library makes it simpler.
 
 ## TypeScript IDE
 
