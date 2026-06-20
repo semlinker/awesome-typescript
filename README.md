@@ -404,6 +404,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [CueAPI - cuechain](https://github.com/cueapi/cuechain) - TypeScript primitive for verifying contracts between LLM pipeline steps. Typed inputs/outputs via Zod, quality gates with retry and failure context. MIT.
 
 ## TypeScript IDE
 
