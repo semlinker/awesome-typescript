@@ -52,6 +52,8 @@
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Server](#server)
+    - [Testing](#testing)
+    - [Utility](#utility)
   - [TypeScript IDE](#typescript-ide)
     - [Offline](#offline)
       - [IDE/Plugins](#ideplugins)
@@ -400,6 +402,10 @@
   - [samchon - nestia](https://github.com/samchon/nestia)
 - [samchon - tgrid](https://github.com/samchon/tgrid)
 - [samchon - mutex-server](https://github.com/samchon/mutex-server)
+
+### Testing
+
+- [playwright-praman](https://github.com/mrkanitkar/playwright-praman) - Playwright plugin for SAP S/4HANA, Fiori & UI5 test automation — AI test generation, 199 typed control proxies, OData V2/V4, Fiori Elements, 6 auth strategies.
 
 ### Utility
 
