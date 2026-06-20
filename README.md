@@ -404,6 +404,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [lodash](https://lodash.com/)
 
 ## TypeScript IDE
 
