@@ -404,6 +404,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [SkillsHub](https://github.com/ComeOnOliver/skillshub) - AI agent skills registry with 5,300+ skills. One API call to find the right skill for any task.
 
 ## TypeScript IDE
 
