@@ -404,6 +404,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [capcut-cli](https://github.com/renezander030/capcut-cli)
 
 ## TypeScript IDE
 
