@@ -359,7 +359,7 @@
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
-- [tonyboho - ts-mixin-class](https://github.com/tonyboho/ts-mixin-class) - Multiple inheritance for TypeScript with native syntax, full generics support and zero runtime overhead
+- [tonyboho - ts-mixin-class](https://github.com/tonyboho/ts-mixin-class)
 
 #### linter
 
