@@ -408,6 +408,7 @@
 
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
+- [ts6to7](https://github.com/zi-gae/ts6to7) - Codemod that migrates a TypeScript 5/6 project to TypeScript 7 (tsgo): rewrites tsconfig options removed in TS7 and flags changes that need manual review.
 
 ## TypeScript IDE
 
