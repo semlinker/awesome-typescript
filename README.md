@@ -404,6 +404,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [nika-client](https://github.com/supernovae-st/nika-client)
 - [csv-pipe](https://github.com/martsinlabs/csv-pipe)
 
 ### CLI
