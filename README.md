@@ -426,6 +426,7 @@
 - [TypeScript Interactive Development Environment for Emacs](https://github.com/ananthakumaran/tide)
 - [TypeScript IDE for Eclipse](http://typecsdev.com/)
 - [TypeScript Syntax for VIM](https://github.com/leafgarland/typescript-vim)
+- [Cate](https://github.com/0-AI-UG/cate)
 
 ### Online
 
