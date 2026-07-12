@@ -333,6 +333,7 @@
 - [TypeScript Microservices](https://amzn.to/39ru7cx)
 
 ## TypeScript Tools/Libraries
+* [BreakShield CI](https://github.com/apps/breakshield-ci) - GitHub App that automatically detects breaking API changes in pull requests using AST analysis of TypeScript interfaces and OpenAPI specs. Free during beta.
 
 ### Build
 
