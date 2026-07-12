@@ -411,6 +411,10 @@
 
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 
+### Tool
+
+- [JQLite](https://github.com/Jay-Karia/jqlite)
+
 ## TypeScript IDE
 
 ### Offline
