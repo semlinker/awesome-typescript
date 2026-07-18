@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [SaaS Starter](https://github.com/sayahweb2-png/saas-starter-lite) - Full-stack TypeScript SaaS boilerplate with NestJS 11 + Angular 21, JWT/OAuth/2FA auth, Stripe, multi-tenancy, Docker, and Terraform.
 
 ## TypeScript Design patterns
 
