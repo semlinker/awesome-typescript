@@ -392,6 +392,7 @@
   - [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)
+- [Monarch ORM](https://github.com/monarch-orm/monarch)
 
 ### Server
 
