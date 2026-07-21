@@ -407,6 +407,7 @@
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
 - [csv-pipe](https://github.com/martsinlabs/csv-pipe)
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
+- [rrweb](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
