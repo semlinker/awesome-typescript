@@ -413,6 +413,7 @@
 
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 - [Tura](https://github.com/Tura-AI/tura) - Local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
+- [SDKProof](https://sdkproof.dev) - Type-checks how well AI coding agents write your SDK's current API by compiling model output against the real installed package (no LLM judge).
 
 ## TypeScript IDE
 
