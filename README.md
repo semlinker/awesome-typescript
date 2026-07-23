@@ -405,6 +405,7 @@
 ### Utility
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
+- [nika-client](https://github.com/supernovae-st/nika-client)
 - [csv-pipe](https://github.com/martsinlabs/csv-pipe)
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
 
