@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [MailKite - SaaS Starter](https://github.com/mailkite/saas-startup) - Production-ready Next.js 15 SaaS starter with self-contained auth (Google/GitHub OAuth + email/password — no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle.
 
 ## TypeScript Design patterns
 
