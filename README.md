@@ -408,6 +408,11 @@
 - [csv-pipe](https://github.com/martsinlabs/csv-pipe)
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
 
+### Serialization
+
+- [class-transformer](https://github.com/typestack/class-transformer) - Transform plain objects to class instances and back using decorators.
+- [ts-jackson](https://github.com/Eljoy/ts-jackson) - Serialize and deserialize deeply nested JSON into TypeScript classes with decorators. Deep lodash-style path mapping, works with both legacy and TC39 standard decorators.
+
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
 
