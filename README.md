@@ -410,6 +410,7 @@
 
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
+- [rightmodeler](https://github.com/elm-os/rightmodeler) - MIT-licensed TypeScript CLI that replays existing agent traces through lower-cost candidate models and reports evidence, cost, sample size, and abstentions before a model change.
 
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 - [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
