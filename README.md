@@ -392,6 +392,7 @@
   - [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm)
 - [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)
+- - [Tenant Evidence Kit](https://github.com/oitydob-crypto/tenant-evidence-kit) - TypeScript toolkit for private multi-tenant evidence workflows with Supabase Storage, RLS, signed URLs, and compensated cleanup.
 
 ### Server
 
