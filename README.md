@@ -331,6 +331,7 @@
 - [TypeScript Design Patterns](https://amzn.to/2FbWkpY)
 - [TypeScript High Performance](https://amzn.to/2QAERNk)
 - [TypeScript Microservices](https://amzn.to/39ru7cx)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 
 ## TypeScript Tools/Libraries
 
