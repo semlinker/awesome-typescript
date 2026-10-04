@@ -366,6 +366,7 @@
 - [palantir - tslint](https://github.com/palantir/tslint)
 - [ESLint](https://eslint.org/)
 - [Open Code Review](https://github.com/raye-deng/open-code-review) - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
+- [untodo](https://github.com/ysknsid25/untodo) - Type-safe TODO for humans and AI. Trackable, structured, and lint-enforceable.
 
 ### Ioc
 
