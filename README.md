@@ -416,6 +416,10 @@
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 - [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
 
+### Tool
+
+- [JQLite](https://github.com/Jay-Karia/jqlite)
+
 ## TypeScript IDE
 
 ### Offline
