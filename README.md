@@ -366,6 +366,7 @@
 - [palantir - tslint](https://github.com/palantir/tslint)
 - [ESLint](https://eslint.org/)
 - [Open Code Review](https://github.com/raye-deng/open-code-review) - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
+- [Archprint](https://github.com/Tommkruix/archprint) - Infers the architecture rules a TypeScript codebase already follows from its import graph, with the evidence for each rule, and writes them as ESLint and dependency-cruiser rules. CLI + CI check + MCP server.
 
 ### Ioc
 
