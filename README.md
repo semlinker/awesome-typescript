@@ -49,6 +49,7 @@
       - [linter](#linter)
     - [Ioc](#ioc)
     - [Doc](#doc)
+    - [Converter](#converter)
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Server](#server)
@@ -378,6 +379,10 @@
 ### Doc
 
 - [TypeStrong - typedoc](https://github.com/TypeStrong/typedoc)
+
+### Converter
+
+- [mdgate - converters](https://github.com/mdgate/converters) - Pure TypeScript converters for 150+ file types (DOCX, PDF, PPTX, XLSX, iWork, HWP, email) to GitHub-Flavored Markdown. Runs in Node, Edge, and browsers.
 
 ### Data Structure
 
