@@ -410,6 +410,11 @@
 - [JSON to TypeScript](https://nutilz.com/json-to-typescript) - Free online tool that converts JSON objects into TypeScript interfaces and types, no signup required.
 - [Chronera](https://github.com/INTECH-Software-House/chronera-js) - Universal, type-safe date, time, calendar, era, locale, and timezone toolkit with RFC 9557, Temporal ZonedDateTime, and multi-cultural calendar engines.
 
+### Serialization
+
+- [class-transformer](https://github.com/typestack/class-transformer) - Transform plain objects to class instances and back using decorators.
+- [ts-jackson](https://github.com/Eljoy/ts-jackson) - Serialize and deserialize deeply nested JSON into TypeScript classes with decorators. Deep lodash-style path mapping, works with both legacy and TC39 standard decorators.
+
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
 
