@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [7ovr - shadcn-vite-starter](https://github.com/7ovr/shadcn-vite-starter) - Strict TypeScript Vite and React starter on shadcn/ui and Base UI, set up so coding agents follow its patterns, from one folder per feature to tests first.
 
 ## TypeScript Design patterns
 
