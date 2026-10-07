@@ -412,6 +412,7 @@
 
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
+- [ts6to7](https://github.com/zi-gae/ts6to7) - Codemod that migrates a TypeScript 5/6 project to TypeScript 7 (tsgo): rewrites tsconfig options removed in TS7 and flags changes that need manual review.
 
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 - [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
