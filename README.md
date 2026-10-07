@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [Create-Node-App - create-node-app](https://github.com/Create-Node-App/create-node-app) - Composable scaffolding CLI for production-ready Node and TypeScript projects from templates and extensions.
 
 ## TypeScript Design patterns
 
