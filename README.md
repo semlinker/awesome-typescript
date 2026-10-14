@@ -358,6 +358,7 @@
 - [TypeStrong - ts-node](https://github.com/TypeStrong/ts-node)
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
+- [AlfazMahmudRizve - json-to-zod-ast](https://github.com/AlfazMahmudRizve/json-to-zod-ast) - AST-based deterministic JSON to TypeScript interface and Zod schema generator with zero external dependencies ([web converter](https://fasttools.me/json-to-typescript)).
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
 - [tsconfig.json Generator](https://draftkit.co/dev-launch-pack/tsconfig-generator.html) - Free browser tool that generates a ready-to-commit `tsconfig.json` from presets (React+Vite, Next.js, Node, Library) or custom options, including strict-mode flags, JSX, moduleResolution, path aliases, and composite/project references.
 
