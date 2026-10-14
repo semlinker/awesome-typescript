@@ -415,6 +415,7 @@
 
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 - [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
+- [Tool Kumar](https://tools.vikasmaur.com/tools/json-to-typescript) - Free browser-based JSON to TypeScript and Zod schema converter with offline support.
 
 ## TypeScript IDE
 
