@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [OTF Kit - SaaS Dashboard](https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=awesome-listing&utm_content=2026-10-18-saas-typescript-starters) - Editable Vite + React 19 dashboard with a Hono API, PostgreSQL, email/password auth, projects, teams, and sample analytics screens.
 
 ## TypeScript Design patterns
 
