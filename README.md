@@ -357,6 +357,7 @@
 
 - [TypeStrong - ts-node](https://github.com/TypeStrong/ts-node)
 - [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript)
+- [axiomantic - nimts](https://github.com/axiomantic/nimts) - Seamless TypeScript & WebAssembly bridge for Nim with Vite integration, automatic .d.ts generation, and multi-threaded Web Workers.
 - [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
 - [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
 - [tsconfig.json Generator](https://draftkit.co/dev-launch-pack/tsconfig-generator.html) - Free browser tool that generates a ready-to-commit `tsconfig.json` from presets (React+Vite, Next.js, Node, Library) or custom options, including strict-mode flags, JSX, moduleResolution, path aliases, and composite/project references.
