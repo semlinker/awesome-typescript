@@ -214,6 +214,7 @@
 - [Jonny Fox - WebSocket + Node.js + Express — Step by step tutorial using Typescript](https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4)
 - [Trey Huffine - TypeScript and React using create-react-app: A step-by-step guide to setting up your first app](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
 - [Rinto Jose - React Native with TypeScript](https://medium.com/@rintoj/react-native-with-typescript-40355a90a5d7)
+- [Aleksei Aleinikov - TypeScript 7 vs TypeScript 6: What Changed, What Breaks and How to Upgrade](https://www.alekseialeinikov.com/en/blog/topics/programming/typescript-7-vs-typescript-6-native-compiler-upgrade-guide)
 
 #### Samples
 
@@ -225,6 +226,7 @@
 - [rangle - typescript-react-redux-example](https://github.com/rangle/typescript-react-redux-example)
 - [luixaviles - socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat)
 - [dwyl - hapi-typescript-example](https://github.com/dwyl/hapi-typescript-example)
+- [LF3551 - typescript-7-vs-6-benchmark](https://github.com/LF3551/typescript-7-vs-6-benchmark)
 
 #### Guide
 
