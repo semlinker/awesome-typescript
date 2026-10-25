@@ -415,6 +415,9 @@
 
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 - [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
+- [wsl-shadow](https://github.com/kanchingyg/wsl-shadow) - Offline pre-flight CLI and TypeScript library that detects Windows-to-WSL2 path, symlink, and binary shadowing hazards across Node.js and CLI toolchains.
+- [exports-shadow](https://github.com/kanchingyg/exports-shadow) - Offline validator for `package.json` subpath exports and TypeScript `moduleResolution` boundaries across Node.js, Bun, Deno, and bundlers.
+- [wrangler-doctor](https://github.com/kanchingyg/wrangler-doctor) - Offline pre-flight checker and local D1/Workflow test harness for Cloudflare Workers (`wrangler.jsonc`, `wrangler.toml`, and `cloudflare.config.ts`).
 
 ## TypeScript IDE
 

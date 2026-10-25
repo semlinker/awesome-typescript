@@ -355,6 +355,9 @@
 #### linter
 
 - [palantir - tslint](https://github.com/palantir/tslint)
+- [wsl-shadow](https://github.com/kanchingyg/wsl-shadow) - 面向 Node.js 与 TypeScript 工具链的 WSL2 跨系统路径、符号链接与环境变量遮蔽离线诊断 CLI。
+- [exports-shadow](https://github.com/kanchingyg/exports-shadow) - 静态检测 `package.json` 子路径导出与 TypeScript `moduleResolution` 解析遮蔽的离线校验工具。
+- [wrangler-doctor](https://github.com/kanchingyg/wrangler-doctor) - 面向 Cloudflare Workers（`wrangler.jsonc`、`wrangler.toml`、`cloudflare.config.ts`）的离线预检 CLI 与本地 D1/Workflow 测试套件。
 
 ### Ioc
 
