@@ -409,6 +409,8 @@
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
 - [JSON to TypeScript](https://nutilz.com/json-to-typescript) - Free online tool that converts JSON objects into TypeScript interfaces and types, no signup required.
 - [Chronera](https://github.com/INTECH-Software-House/chronera-js) - Universal, type-safe date, time, calendar, era, locale, and timezone toolkit with RFC 9557, Temporal ZonedDateTime, and multi-cultural calendar engines.
+- [periodz](https://github.com/jonasohrn/periodz) - Set operations (intersection, union, subtract) on periods of numbers, Dates and Day.js values.
+- [Day.js](https://github.com/iamkun/dayjs) - Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.
 
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
