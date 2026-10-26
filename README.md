@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [manishgupta412 - express-email-otp-login](https://github.com/manishgupta412/express-email-otp-login) - Passwordless login for Express with email one-time codes and magic links, sent via the Mailtrap Email API.
 
 ## TypeScript Design patterns
 
