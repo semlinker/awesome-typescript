@@ -406,6 +406,8 @@
 
 - [PigmentTS](https://github.com/Jay-Karia/pigment-ts)
 - [csv-pipe](https://github.com/martsinlabs/csv-pipe)
+- [commute-corridor-matcher](https://github.com/Mitvia/commute-corridor-matcher) - Pure TypeScript corridor matching, route detour calculation, and Scope 3 employee commute emissions analyzer.
+- [schengen-calculator-core](https://github.com/AtlassioTravel/schengen-calculator-core) - Pure TypeScript Schengen 90/180-day rolling window travel compliance and visa calculator.
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
 - [JSON to TypeScript](https://nutilz.com/json-to-typescript) - Free online tool that converts JSON objects into TypeScript interfaces and types, no signup required.
 - [Chronera](https://github.com/INTECH-Software-House/chronera-js) - Universal, type-safe date, time, calendar, era, locale, and timezone toolkit with RFC 9557, Temporal ZonedDateTime, and multi-cultural calendar engines.
