@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [keyturnkit - Keyturn Kit](https://github.com/keyturnkit/keyturn-kit) - WXT + React starter for paid Chrome extensions, with license keys checked from the extension (MIT free edition).
 
 ## TypeScript Design patterns
 
