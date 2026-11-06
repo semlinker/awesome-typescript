@@ -52,6 +52,7 @@
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Server](#server)
+    - [UI and Visualization](#ui-and-visualization)
   - [TypeScript IDE](#typescript-ide)
     - [Offline](#offline)
       - [IDE/Plugins](#ideplugins)
@@ -415,6 +416,15 @@
 
 * [reflow](https://github.com/valtors/reflow) - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 - [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
+
+### UI and Visualization
+
+- [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed TypeScript UI components for reports and dashboards, including form controls, pickers, and dialogs.
+- [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with typed configuration, zoom, annotations, and export. Commercial with a 30-day trial.
+- [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables with typed configuration for grouping, aggregation, subtotals, and grand totals. Commercial with a 30-day trial.
+- [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts with TypeScript APIs for project tasks, dependencies, and timelines. Commercial with a 30-day trial.
+- [RevoGrid Kanban](https://github.com/revolist/kanban) - Kanban boards with TypeScript APIs for workflow columns, swimlanes, and card editing. Commercial with a 30-day trial.
+- [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Event and resource scheduling with TypeScript APIs for calendar and timeline views. Commercial with a 30-day trial.
 
 ## TypeScript IDE
 
