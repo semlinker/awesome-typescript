@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [fabwaseem - forgekit](https://github.com/fabwaseem/forgekit) - Next.js 16 AI starter in TypeScript: streaming chat, tool calling, RAG on pgvector, several model providers, Better Auth, Drizzle, Docker self-hosting.
 
 ## TypeScript Design patterns
 
