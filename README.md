@@ -401,6 +401,7 @@
   - [samchon - nestia](https://github.com/samchon/nestia)
 - [samchon - tgrid](https://github.com/samchon/tgrid)
 - [samchon - mutex-server](https://github.com/samchon/mutex-server)
+- [Shtora Auth](https://github.com/orgShtora-1/auth) - TypeScript authentication and session handlers for Next.js App Router and Cloudflare Workers.
 
 ### Utility
 
