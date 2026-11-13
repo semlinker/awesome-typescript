@@ -374,6 +374,7 @@
 - [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example)
 - [Injex Framework](https://www.injex.dev)
 - [Injex Express Plugin](https://www.injex.dev/docs/plugins/express)
+- [injecute](https://github.com/Masyaka/injecute) - Type-safe, decorator-free dependency injection container: explicit wiring checked by the compiler, modules, scopes and lifecycle.
 
 ### Doc
 
