@@ -385,6 +385,7 @@
 - [basarat - typescript-collections](https://github.com/basarat/typescript-collections)
 - [samchon - tstl](https://github.com/samchon/tstl)
 - [smoren - itertools-ts](https://github.com/Smoren/itertools-ts)
+- [trentamorris - df-script](https://df-script.js.org) - 43kB zero-dependency, expression-based DataFrame engine for TypeScript and JavaScript
 
 ### Database
 
