@@ -410,6 +410,8 @@
 - [JSON to TypeScript](https://nutilz.com/json-to-typescript) - Free online tool that converts JSON objects into TypeScript interfaces and types, no signup required.
 - [Chronera](https://github.com/INTECH-Software-House/chronera-js) - Universal, type-safe date, time, calendar, era, locale, and timezone toolkit with RFC 9557, Temporal ZonedDateTime, and multi-cultural calendar engines.
 
+- [LLMBrake](https://github.com/llmbrake/llmbrake) - In-process TypeScript library that enforces a monthly USD budget per customer on OpenAI-compatible and Anthropic API calls.
+
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
 
