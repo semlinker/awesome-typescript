@@ -401,6 +401,7 @@
   - [samchon - nestia](https://github.com/samchon/nestia)
 - [samchon - tgrid](https://github.com/samchon/tgrid)
 - [samchon - mutex-server](https://github.com/samchon/mutex-server)
+- [basementstudio - xmcp](https://github.com/basementstudio/xmcp) - TypeScript framework for building MCP servers with file-based tools, resources, and prompts.
 
 ### Utility
 
