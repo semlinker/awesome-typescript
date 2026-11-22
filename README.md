@@ -409,6 +409,7 @@
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
 - [JSON to TypeScript](https://nutilz.com/json-to-typescript) - Free online tool that converts JSON objects into TypeScript interfaces and types, no signup required.
 - [Chronera](https://github.com/INTECH-Software-House/chronera-js) - Universal, type-safe date, time, calendar, era, locale, and timezone toolkit with RFC 9557, Temporal ZonedDateTime, and multi-cultural calendar engines.
+- [HyperFetch](https://github.com/BetterTyped/hyper-fetch) - Type-safe data fetching and realtime framework with one typed API for REST, GraphQL, WebSockets and SSE, plus caching, retries, deduplication, offline queues and React hooks.
 
 ### CLI
 - [capcut-cli](https://github.com/renezander030/capcut-cli)
