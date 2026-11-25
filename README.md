@@ -298,6 +298,7 @@
 - [Zhihu - Typescript 有什么冷门但是很好用的特性？](https://www.zhihu.com/question/276172039/answer/385433602)
 - [Zhihu - TypeScript 中的装饰器(Decorators)的本质是什么](https://www.zhihu.com/question/68257128/answer/261502855)
 - [Zhihu - 如何学习用 Typescript 写 Reactjs?](https://www.zhihu.com/question/38838053/answer/78371116)
+- [Mentaro - TypeScript Interview Questions](https://github.com/mrZedov/mentaro-interview-questions/tree/main/typescript)
 
 ## TypeScript Books
 
